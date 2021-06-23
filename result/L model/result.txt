@@ -1,0 +1,4801 @@
+DENEME SAYISI :0
+WAWE:    35    20 
+
+predict with mod
+# 	X	Y	P	Approximate
+35 20 9 0.636756
+35 23 6 3.748267
+34 20 3 0.937301
+36 20 3 1.638211
+34 23 2 3.810851
+36 23 2 4.040765
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+35 20 9 0.682930
+35 23 6 3.752300
+34 20 3 0.953529
+36 20 3 1.647550
+34 23 2 3.810851
+36 23 2 4.040765
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+35 20 1 0.722196
+35 20 1 0.674766
+35 20 1 0.579500
+34 23 0 3.773351
+36 23 0 4.076169
+
+{'best points': 3, 'close points': 2, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+35 20 1 0.722196
+35 20 1 0.674766
+35 20 0 0.579500
+
+{'best points': 3, 'close points': 0, 'far points': 0}
+DENEME SAYISI :1
+WAWE:    71    51 
+
+predict with mod
+# 	X	Y	P	Approximate
+69 50 6 1.885611
+67 50 6 4.091467
+71 50 6 0.966022
+69 51 4 1.674910
+67 51 4 3.998737
+71 51 4 0.427776
+34 50 3 36.847192
+69 42 2 8.532273
+69 89 2 38.893554
+67 42 2 9.272769
+67 89 2 39.062682
+71 42 2 8.377192
+71 89 2 38.859828
+34 51 2 36.837011
+34 42 1 37.775121
+34 89 1 53.543147
+
+{'best points': 2, 'close points': 4, 'far points': 10}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+67 50 6 4.091467
+69 50 6 1.885611
+71 50 6 0.966022
+67 51 4 3.998737
+69 51 4 1.674910
+71 51 4 0.427776
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+69 42 1 8.578720
+67 49 1 3.986758
+66 51 1 4.331274
+71 51 0 0.495534
+71 50 0 1.002740
+69 50 0 1.521950
+34 89 0 53.543147
+
+{'best points': 1, 'close points': 4, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+69 42 1 8.578720
+66 51 1 4.331274
+67 49 0 3.986758
+71 51 0 0.495534
+71 50 0 1.002740
+69 50 0 1.521950
+
+{'best points': 1, 'close points': 4, 'far points': 1}
+DENEME SAYISI :2
+WAWE:    78    34 
+
+predict with mod
+# 	X	Y	P	Approximate
+77 33 9 0.755735
+77 31 6 2.684091
+78 33 6 0.566208
+78 31 4 2.637006
+77 27 3 6.877465
+83 33 3 5.264525
+78 27 2 6.859226
+83 31 2 5.860754
+83 27 1 8.628072
+
+{'best points': 2, 'close points': 2, 'far points': 5}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+77 33 9 0.725339
+77 31 6 2.680465
+78 33 6 0.543164
+78 31 4 2.637006
+
+{'best points': 2, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+77 27 1 6.882190
+77 31 1 2.842965
+78 31 1 2.427366
+77 33 0 0.726405
+78 33 0 0.756035
+83 33 0 5.269780
+
+{'best points': 2, 'close points': 2, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+77 33 1 0.726405
+78 33 1 0.756035
+77 31 0 2.842965
+78 31 0 2.427366
+
+{'best points': 2, 'close points': 2, 'far points': 0}
+DENEME SAYISI :3
+WAWE:    54    81 
+
+predict with mod
+# 	X	Y	P	Approximate
+53 81 2 0.937422
+53 83 2 2.187387
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+53 81 2 0.937422
+53 83 2 2.187387
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+53 83 1 2.182110
+53 81 0 0.962379
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+53 81 1 0.962379
+
+{'best points': 1, 'close points': 0, 'far points': 0}
+DENEME SAYISI :4
+WAWE:    43    96 
+
+predict with mod
+# 	X	Y	P	Approximate
+73 50 1 54.301049
+73 49 1 55.304493
+65 50 1 50.329010
+65 49 1 51.410041
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+65 49 1 51.410041
+65 50 1 50.329010
+73 49 1 55.304493
+73 50 1 54.301049
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+65 49 1 51.410041
+73 50 0 54.301049
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+73 50 1 54.301049
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :5
+WAWE:    87    53 
+
+predict with mod
+# 	X	Y	P	Approximate
+92 59 4 8.222435
+92 57 2 6.876709
+90 59 2 7.403420
+90 57 1 5.872931
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+92 59 4 8.222435
+90 59 2 7.403420
+92 57 2 6.876709
+90 57 1 5.872931
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+92 59 1 8.316254
+92 59 0 8.130403
+90 57 0 5.872931
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+92 59 1 8.130403
+92 59 0 8.316254
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :6
+WAWE:    53    29 
+
+predict with mod
+# 	X	Y	P	Approximate
+53 31 6 2.876002
+51 31 6 3.311345
+59 31 3 7.063044
+5 31 3 47.731294
+68 31 3 15.482251
+53 26 2 2.434685
+51 41 2 13.111636
+51 61 2 32.138792
+51 32 2 3.840786
+51 26 2 2.936207
+53 61 2 32.096859
+53 41 2 13.008512
+53 32 2 3.472465
+59 41 1 14.520213
+5 41 1 49.388525
+5 32 1 47.770944
+5 26 1 47.706737
+59 61 1 32.738717
+68 32 1 15.604061
+59 32 1 7.326201
+59 26 1 6.895136
+68 61 1 35.519531
+68 41 1 20.016246
+68 26 1 15.406375
+5 61 1 57.447484
+
+{'best points': 0, 'close points': 6, 'far points': 19}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+51 32 8 3.572981
+53 32 8 3.173731
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+53 26 1 2.556458
+51 31 1 2.738386
+50 32 1 3.994307
+53 32 1 3.126421
+68 41 0 20.016246
+59 31 0 7.011696
+5 61 0 57.447484
+
+{'best points': 0, 'close points': 4, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+53 26 1 2.556458
+59 31 1 7.011696
+51 31 0 2.738386
+50 32 0 3.994307
+53 32 0 3.126421
+
+{'best points': 0, 'close points': 4, 'far points': 1}
+DENEME SAYISI :7
+WAWE:    54    92 
+
+predict with mod
+# 	X	Y	P	Approximate
+67 90 4 13.313841
+54 90 4 1.984350
+54 93 2 1.966427
+58 90 2 4.592033
+50 90 2 3.598203
+67 93 2 13.311181
+67 68 2 26.817179
+67 67 2 27.951176
+67 79 2 17.974380
+54 68 2 23.363227
+54 67 2 24.656592
+54 79 2 12.237549
+58 93 1 4.584316
+58 67 1 25.001933
+58 68 1 23.727400
+50 93 1 3.588350
+50 68 1 23.555250
+50 79 1 12.600279
+50 67 1 24.838618
+58 79 1 12.919239
+
+{'best points': 0, 'close points': 6, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+66 68 1 26.704446
+67 67 1 28.060803
+50 93 0 3.588350
+54 90 0 1.737002
+58 79 0 12.919239
+54 89 0 2.239999
+
+{'best points': 0, 'close points': 3, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+50 93 1 3.588350
+58 79 1 12.919239
+54 90 0 1.737002
+54 89 0 2.239999
+
+{'best points': 0, 'close points': 3, 'far points': 1}
+DENEME SAYISI :8
+WAWE:    64    88 
+
+predict with mod
+# 	X	Y	P	Approximate
+65 85 2 2.492594
+65 65 2 22.669633
+65 41 2 46.278795
+65 82 2 5.687949
+65 87 2 1.363002
+65 35 2 52.143231
+52 87 1 11.064948
+52 65 1 25.189036
+52 41 1 47.563665
+52 82 1 12.366409
+63 65 1 22.651471
+63 85 1 2.321615
+63 35 1 52.135338
+52 85 1 11.260033
+63 41 1 46.269901
+63 82 1 5.615125
+52 35 1 53.286883
+83 41 1 50.170428
+83 87 1 19.421707
+83 82 1 20.191525
+83 65 1 29.820415
+83 35 1 55.626086
+83 85 1 19.533508
+97 87 1 33.021288
+97 82 1 33.479851
+97 41 1 56.835504
+97 65 1 40.030737
+97 35 1 61.704653
+97 85 1 33.087168
+63 87 1 1.017174
+
+{'best points': 0, 'close points': 4, 'far points': 26}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+65 85 1 2.443920
+65 82 1 5.711018
+63 87 1 1.017174
+97 35 0 61.704653
+83 65 0 29.820415
+52 41 0 47.563665
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+65 82 1 5.711018
+63 87 1 1.017174
+65 85 0 2.443920
+
+{'best points': 0, 'close points': 2, 'far points': 1}
+DENEME SAYISI :9
+WAWE:    23    42 
+
+predict with mod
+# 	X	Y	P	Approximate
+22 43 3 1.124930
+21 43 3 1.970135
+24 43 3 1.974510
+26 43 3 3.542445
+28 43 3 5.123205
+22 41 1 0.503476
+22 44 1 2.341314
+21 41 1 1.693946
+21 44 1 2.845648
+24 41 1 1.699033
+24 44 1 2.848680
+26 41 1 3.396606
+26 44 1 4.094533
+28 41 1 5.023470
+28 44 1 5.519377
+
+{'best points': 1, 'close points': 11, 'far points': 3}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+21 43 3 1.975364
+22 43 3 1.134064
+24 43 3 1.979728
+26 43 3 3.545356
+28 43 3 5.125219
+21 41 1 1.693946
+21 44 1 2.845648
+22 41 1 0.503476
+22 44 1 2.341314
+24 41 1 1.699033
+24 44 1 2.848680
+26 41 1 3.396606
+26 44 1 4.094533
+28 41 1 5.023470
+28 44 1 5.519377
+
+{'best points': 1, 'close points': 11, 'far points': 3}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+24 43 1 1.937691
+26 44 1 4.094533
+28 43 1 5.125386
+22 41 0 0.503476
+21 43 0 1.997050
+
+{'best points': 1, 'close points': 3, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+26 44 1 4.094533
+24 43 0 1.937691
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+DENEME SAYISI :10
+WAWE:    77    44 
+
+predict with mod
+# 	X	Y	P	Approximate
+72 29 3 15.594095
+72 42 3 4.907633
+72 35 3 9.523824
+72 44 3 4.636516
+72 47 3 5.578391
+72 33 3 11.698879
+78 35 1 8.449483
+85 44 1 8.895692
+85 35 1 12.179462
+85 42 1 9.039963
+85 33 1 13.946320
+85 29 1 17.343928
+78 47 1 3.436419
+78 44 1 1.479123
+78 29 1 14.962163
+78 42 1 2.185266
+78 33 1 10.842246
+75 47 1 3.583181
+75 44 1 1.793884
+75 35 1 8.510228
+75 42 1 2.409482
+75 33 1 10.889652
+75 29 1 14.996550
+85 47 1 9.420961
+
+{'best points': 0, 'close points': 8, 'far points': 16}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+72 35 3 9.523824
+72 42 3 4.907633
+72 44 3 4.636516
+75 35 1 8.510228
+75 42 1 2.409482
+75 44 1 1.793884
+78 35 1 8.449483
+78 42 1 2.185266
+78 44 1 1.479123
+
+{'best points': 0, 'close points': 6, 'far points': 3}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+71 29 1 15.755655
+72 33 1 11.702928
+75 35 1 8.510228
+72 42 0 4.659237
+78 44 0 1.479123
+85 47 0 9.420961
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+75 35 1 8.510228
+72 33 0 11.702928
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :11
+WAWE:    43    83 
+
+predict with mod
+# 	X	Y	P	Approximate
+43 82 8 0.872119
+43 84 8 1.143172
+43 64 4 18.168202
+43 85 4 2.690798
+43 76 4 6.499994
+43 59 4 23.357547
+55 84 2 12.262350
+49 82 2 6.540999
+61 82 2 18.940167
+42 82 2 1.097628
+61 84 2 18.954582
+42 84 2 1.323269
+49 84 2 6.582622
+55 82 2 12.240056
+55 59 1 26.355898
+42 59 1 23.367054
+42 76 1 6.534073
+55 85 1 12.501951
+55 64 1 21.889311
+42 64 1 18.180422
+49 76 1 9.180087
+55 76 1 13.831424
+61 85 1 19.110462
+61 64 1 26.230762
+61 59 1 30.059015
+61 76 1 20.005481
+49 85 1 7.018865
+49 64 1 19.290091
+49 59 1 24.240443
+42 85 1 2.772109
+
+{'best points': 1, 'close points': 5, 'far points': 24}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+43 82 10 0.883445
+43 84 10 1.151836
+43 85 5 2.694490
+
+{'best points': 1, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+49 76 1 9.180087
+42 82 1 0.628878
+61 59 1 30.059015
+43 84 1 1.604697
+55 64 1 21.889311
+42 83 1 0.643800
+43 81 1 1.430701
+42 85 1 2.772109
+
+{'best points': 2, 'close points': 3, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+49 76 1 9.180087
+42 82 0 0.628878
+43 84 0 1.604697
+42 83 0 0.643800
+43 81 0 1.430701
+42 85 0 2.772109
+
+{'best points': 2, 'close points': 3, 'far points': 1}
+DENEME SAYISI :12
+WAWE:    79    75 
+
+predict with mod
+# 	X	Y	P	Approximate
+85 77 1 7.085886
+85 83 1 10.671797
+85 81 1 9.615251
+85 50 1 25.846656
+81 77 1 2.997794
+81 83 1 8.524332
+81 81 1 7.157517
+81 50 1 25.036506
+82 77 1 3.880833
+82 83 1 8.873463
+82 81 1 7.569950
+82 50 1 25.157518
+53 77 1 25.298314
+53 83 1 26.527009
+53 81 1 26.119877
+53 50 1 35.466104
+
+{'best points': 0, 'close points': 2, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+81 77 1 2.997794
+81 81 1 7.157517
+81 83 1 8.524332
+82 77 1 3.880833
+82 81 1 7.569950
+82 83 1 8.873463
+85 77 1 7.085886
+85 81 1 9.615251
+85 83 1 10.671797
+
+{'best points': 0, 'close points': 2, 'far points': 7}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+81 83 1 8.524332
+82 81 1 7.569950
+85 77 0 7.085886
+53 50 0 35.466104
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+85 77 1 7.085886
+81 83 0 8.524332
+82 81 0 7.569950
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+DENEME SAYISI :13
+WAWE:    60    96 
+
+predict with mod
+# 	X	Y	P	Approximate
+15 28 1 80.912984
+15 98 1 44.463563
+59 28 1 67.632184
+59 98 1 2.051779
+
+{'best points': 0, 'close points': 1, 'far points': 3}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+59 98 1 2.051779
+15 28 0 80.912984
+
+{'best points': 0, 'close points': 1, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+15 28 1 80.912984
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :14
+WAWE:    19    58 
+
+predict with mod
+# 	X	Y	P	Approximate
+19 58 20 0.328644
+25 58 5 6.706901
+21 58 5 2.101104
+17 58 5 1.607706
+19 52 4 5.932992
+19 59 4 1.840154
+25 52 1 8.948458
+25 59 1 6.946990
+21 52 1 6.285461
+21 59 1 2.773589
+17 52 1 6.138168
+17 59 1 2.421338
+
+{'best points': 1, 'close points': 5, 'far points': 6}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+19 58 20 0.782593
+17 58 5 1.679755
+21 58 5 2.156732
+19 59 4 1.911480
+17 59 1 2.421338
+21 59 1 2.773589
+
+{'best points': 1, 'close points': 5, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+19 58 1 0.893527
+21 58 1 2.221043
+19 57 1 0.425809
+19 58 0 0.613447
+25 52 0 8.948458
+18 58 0 0.612387
+17 59 0 2.421338
+
+{'best points': 4, 'close points': 2, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+21 58 1 2.221043
+19 58 0 0.893527
+19 58 0 0.613447
+19 57 0 0.425809
+18 58 0 0.612387
+
+{'best points': 4, 'close points': 1, 'far points': 0}
+DENEME SAYISI :15
+WAWE:    13    47 
+
+predict with mod
+# 	X	Y	P	Approximate
+12 51 2 4.952831
+26 51 2 14.158822
+46 51 2 33.891175
+38 51 2 25.853836
+75 51 2 62.724253
+77 51 2 64.596593
+12 46 1 0.824925
+12 39 1 7.311100
+26 94 1 49.417028
+46 94 1 58.225271
+26 22 1 27.952000
+12 22 1 24.604321
+26 39 1 15.145755
+38 94 1 53.944335
+38 22 1 35.344913
+38 46 1 25.388399
+26 46 1 13.289929
+12 94 1 47.603582
+77 39 1 64.820070
+77 46 1 64.411721
+77 22 1 68.946080
+77 94 1 80.089265
+75 39 1 62.954377
+75 46 1 62.533846
+75 22 1 67.195045
+75 94 1 78.586910
+46 39 1 34.315206
+46 46 1 33.537467
+46 22 1 41.586702
+38 39 1 26.407243
+
+{'best points': 1, 'close points': 1, 'far points': 28}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+38 51 2 25.853836
+46 51 2 33.891175
+38 46 1 25.388399
+46 46 1 33.537467
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+46 94 1 58.225271
+12 46 1 0.824925
+26 52 1 14.331159
+38 39 1 26.407243
+75 51 0 62.688673
+77 22 0 68.946080
+
+{'best points': 1, 'close points': 0, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+12 46 1 0.824925
+38 39 1 26.407243
+26 52 0 14.331159
+
+{'best points': 1, 'close points': 0, 'far points': 2}
+DENEME SAYISI :16
+WAWE:    96    95 
+
+predict with mod
+# 	X	Y	P	Approximate
+17 35 1 98.076078
+17 50 1 90.102997
+73 35 1 63.530320
+73 50 1 50.356077
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+73 50 1 50.356077
+17 35 0 98.076078
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+17 35 1 98.076078
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :17
+WAWE:    10    17 
+
+predict with mod
+# 	X	Y	P	Approximate
+49 51 1 52.514802
+49 33 1 42.806206
+49 25 1 40.581069
+49 82 1 76.493117
+60 51 1 61.026314
+60 33 1 52.903477
+60 25 1 51.119759
+60 82 1 82.568781
+31 51 1 40.711151
+31 33 1 27.054846
+31 25 1 23.375557
+31 82 1 68.925978
+99 51 1 95.846929
+99 33 1 90.891147
+99 25 1 89.864634
+99 82 1 110.815280
+
+{'best points': 0, 'close points': 0, 'far points': 16}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+60 33 1 52.903477
+31 25 1 23.375557
+49 51 0 52.514802
+99 82 0 110.815280
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+60 33 1 52.903477
+49 51 0 52.514802
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :18
+WAWE:    22    99 
+
+predict with mod
+# 	X	Y	P	Approximate
+73 34 9 82.502346
+21 34 6 64.066427
+73 89 3 52.798215
+73 93 3 52.320927
+21 89 2 9.247786
+21 93 2 5.945544
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+74 35 9 82.551493
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 35 1 82.452963
+74 34 1 82.981498
+73 34 1 82.289462
+21 89 0 9.231504
+20 93 0 5.977051
+
+{'best points': 0, 'close points': 0, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 35 1 82.452963
+73 34 1 82.289462
+74 34 0 82.981498
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+DENEME SAYISI :19
+WAWE:    80    14 
+
+predict with mod
+# 	X	Y	P	Approximate
+81 8 6 5.828989
+81 11 3 2.482954
+81 19 3 5.320192
+81 2 3 11.753948
+81 17 3 3.400326
+56 8 2 24.635413
+83 8 2 6.843393
+79 8 2 5.745757
+79 19 1 5.228868
+56 19 1 24.520010
+56 17 1 24.176200
+56 11 1 24.064320
+79 2 1 11.712895
+79 11 1 2.280718
+79 17 1 3.255585
+83 2 1 12.288621
+83 19 1 6.415556
+83 17 1 4.941370
+83 11 1 4.361190
+56 2 1 26.666116
+
+{'best points': 0, 'close points': 6, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+81 8 6 5.850294
+81 11 3 2.532566
+79 8 2 5.745757
+83 8 2 6.843393
+79 11 1 2.280718
+83 11 1 4.361190
+
+{'best points': 0, 'close points': 3, 'far points': 3}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+81 11 1 2.525182
+80 8 1 5.546504
+79 8 1 6.000561
+56 2 1 26.666116
+81 17 0 3.492135
+83 19 0 6.415556
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+81 17 1 3.492135
+83 19 1 6.415556
+81 11 0 2.525182
+80 8 0 5.546504
+79 8 0 6.000561
+
+{'best points': 0, 'close points': 2, 'far points': 3}
+DENEME SAYISI :20
+WAWE:    77    55 
+
+predict with mod
+# 	X	Y	P	Approximate
+83 54 4 6.635140
+83 96 2 42.143067
+85 54 2 8.641742
+73 54 2 3.206915
+70 54 2 6.219899
+83 69 2 16.173051
+75 54 2 1.337216
+83 56 2 6.714083
+83 48 2 9.015853
+85 56 1 8.702501
+73 56 1 3.367213
+75 48 1 6.248892
+75 56 1 1.685813
+75 69 1 14.809816
+75 96 1 41.638938
+73 48 1 6.895275
+73 69 1 15.093932
+85 48 1 10.580180
+73 96 1 41.740835
+70 48 1 8.714795
+85 96 1 42.505208
+70 69 1 16.007174
+70 96 1 42.079689
+85 69 1 17.094508
+70 56 1 6.304043
+
+{'best points': 0, 'close points': 4, 'far points': 21}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+83 54 4 6.635140
+75 54 2 1.337216
+83 56 2 6.714083
+75 56 1 1.685813
+
+{'best points': 0, 'close points': 2, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+83 56 1 6.350182
+70 48 1 8.714795
+73 54 1 3.249130
+75 54 1 1.250849
+83 96 0 42.202701
+85 69 0 17.094508
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+83 56 1 6.350182
+70 48 1 8.714795
+73 54 0 3.249130
+75 54 0 1.250849
+
+{'best points': 0, 'close points': 2, 'far points': 2}
+DENEME SAYISI :21
+WAWE:    58    16 
+
+predict with mod
+# 	X	Y	P	Approximate
+58 15 6 0.417084
+58 19 6 3.982235
+2 19 4 55.388905
+2 15 4 55.247140
+58 17 3 1.417535
+58 82 3 66.909723
+58 88 3 72.956890
+2 82 2 86.769716
+2 17 2 55.263749
+68 19 2 10.770719
+68 15 2 10.016194
+59 19 2 4.182996
+59 15 2 1.346561
+2 88 2 91.513826
+59 88 1 72.968124
+68 17 1 10.107403
+68 82 1 67.653982
+68 88 1 73.640057
+59 82 1 66.921972
+59 17 1 1.910150
+
+{'best points': 1, 'close points': 5, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+58 15 6 0.417084
+58 19 6 3.982235
+58 17 3 1.417535
+59 15 2 1.346561
+59 19 2 4.182996
+59 17 1 1.910150
+
+{'best points': 1, 'close points': 5, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+57 15 1 0.924349
+57 20 1 4.234050
+58 15 1 0.603734
+59 19 1 3.948334
+68 17 1 10.107403
+3 82 0 86.464663
+2 88 0 91.804617
+
+{'best points': 2, 'close points': 2, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+57 15 1 0.924349
+58 15 1 0.603734
+68 17 1 10.107403
+57 20 0 4.234050
+59 19 0 3.948334
+
+{'best points': 2, 'close points': 2, 'far points': 1}
+DENEME SAYISI :22
+WAWE:    53    9 
+
+predict with mod
+# 	X	Y	P	Approximate
+56 19 9 10.868325
+56 6 3 3.939723
+56 10 3 3.564233
+56 91 3 82.883582
+51 19 3 10.466688
+43 19 3 13.918959
+4 19 3 49.459182
+51 6 1 2.636760
+51 10 1 2.033433
+51 91 1 82.831873
+43 6 1 9.546641
+43 10 1 9.397909
+43 91 1 83.338497
+4 6 1 48.410863
+4 10 1 48.381753
+4 91 1 95.905049
+
+{'best points': 0, 'close points': 4, 'far points': 12}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+56 19 9 10.917296
+51 19 3 10.517530
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+55 18 1 10.284535
+56 19 1 11.099431
+56 19 1 11.050207
+4 91 1 95.905049
+51 6 0 2.636760
+43 10 0 9.397909
+
+{'best points': 0, 'close points': 1, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+51 6 1 2.636760
+43 10 1 9.397909
+55 18 0 10.284535
+56 19 0 11.099431
+56 19 0 11.050207
+
+{'best points': 0, 'close points': 1, 'far points': 4}
+DENEME SAYISI :23
+WAWE:    99    79 
+
+predict with mod
+# 	X	Y	P	Approximate
+99 79 2 0.785484
+99 78 2 0.854960
+99 75 2 3.316202
+98 79 1 1.043264
+98 78 1 1.096527
+98 75 1 3.386533
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+99 75 2 3.316202
+99 78 2 0.854960
+99 79 2 0.785484
+98 75 1 3.386533
+98 78 1 1.096527
+98 79 1 1.043264
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+99 79 1 0.557132
+99 78 0 1.109449
+98 75 0 3.386533
+
+{'best points': 1, 'close points': 2, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+99 78 1 1.109449
+99 79 0 0.557132
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+DENEME SAYISI :24
+WAWE:    91    0 
+
+predict with mod
+# 	X	Y	P	Approximate
+87 25 1 26.031189
+87 53 1 53.378730
+87 56 1 56.161664
+76 25 1 29.369619
+76 53 1 55.083941
+76 56 1 57.784809
+79 25 1 28.352928
+79 53 1 54.548644
+79 56 1 57.274761
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+76 53 1 55.083941
+76 56 1 57.784809
+79 53 1 54.548644
+79 56 1 57.274761
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+79 56 1 57.274761
+87 25 0 26.031189
+76 53 0 55.083941
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+79 56 1 57.274761
+76 53 0 55.083941
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :25
+WAWE:    2    60 
+
+predict with mod
+# 	X	Y	P	Approximate
+14 45 1 19.372889
+14 42 1 21.368633
+11 45 1 17.631197
+11 42 1 19.803252
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+11 42 1 19.803252
+11 45 1 17.631197
+14 42 1 21.368633
+14 45 1 19.372889
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+11 42 1 19.803252
+14 45 0 19.372889
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+14 45 1 19.372889
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :26
+WAWE:    5    79 
+
+predict with mod
+# 	X	Y	P	Approximate
+45 59 1 44.697913
+45 46 1 51.954368
+45 72 1 40.966173
+45 77 1 40.454664
+56 59 1 54.596607
+56 46 1 60.680660
+56 72 1 51.585980
+56 77 1 51.180718
+27 59 1 29.222891
+27 46 1 39.437676
+27 72 1 23.114956
+27 77 1 22.195804
+8 59 1 19.452395
+8 46 1 32.859528
+8 72 1 7.662865
+8 77 1 4.131829
+
+{'best points': 0, 'close points': 1, 'far points': 15}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+27 72 1 23.114956
+8 77 1 4.131829
+45 59 0 44.697913
+56 46 0 60.680660
+
+{'best points': 0, 'close points': 1, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+56 46 1 60.680660
+45 59 0 44.697913
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :27
+WAWE:    68    26 
+
+predict with mod
+# 	X	Y	P	Approximate
+69 96 4 70.792814
+69 28 2 3.064402
+58 96 2 71.460356
+2 96 2 96.520594
+69 33 2 7.434457
+69 29 2 4.367461
+69 31 2 6.168037
+7 96 2 92.966760
+69 43 2 18.096789
+67 96 2 70.767150
+60 96 2 71.134447
+7 31 1 60.574258
+60 33 1 10.186177
+7 28 1 60.337274
+7 43 1 62.918120
+7 29 1 60.417471
+2 33 1 66.029340
+2 29 1 65.754675
+7 33 1 60.716284
+2 31 1 65.898765
+2 28 1 65.680995
+2 43 1 68.059506
+67 43 1 17.996134
+60 29 1 8.219597
+60 31 1 9.302244
+60 28 1 7.607735
+67 28 1 2.399502
+58 33 1 12.256882
+58 29 1 10.678704
+58 31 1 11.532765
+58 28 1 10.215212
+58 43 1 20.553680
+67 33 1 7.185972
+67 29 1 3.929601
+67 31 1 5.866151
+60 43 1 19.390225
+
+{'best points': 0, 'close points': 4, 'far points': 32}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+58 28 1 10.215212
+58 29 1 10.678704
+58 31 1 11.532765
+58 33 1 12.256882
+60 28 1 7.607735
+60 29 1 8.219597
+60 31 1 9.302244
+60 33 1 10.186177
+
+{'best points': 0, 'close points': 0, 'far points': 8}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+58 29 1 10.678704
+67 43 0 17.996134
+69 28 0 3.113364
+69 31 0 6.144450
+60 33 0 10.186177
+2 96 0 96.662205
+7 96 0 92.819912
+
+{'best points': 0, 'close points': 1, 'far points': 6}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+67 43 1 17.996134
+69 28 1 3.113364
+69 31 1 6.144450
+58 29 0 10.678704
+60 33 0 10.186177
+
+{'best points': 0, 'close points': 1, 'far points': 4}
+DENEME SAYISI :28
+WAWE:    62    94 
+
+predict with mod
+# 	X	Y	P	Approximate
+73 65 1 30.737715
+73 91 1 11.533481
+73 61 1 34.086292
+73 66 1 29.804086
+62 65 1 28.578427
+62 91 1 2.222745
+62 61 1 32.152677
+62 66 1 27.571778
+60 65 1 28.608168
+60 91 1 2.577078
+60 61 1 32.179114
+60 66 1 27.602602
+38 65 1 36.838203
+38 91 1 23.350959
+38 61 1 39.675198
+38 66 1 36.062857
+
+{'best points': 0, 'close points': 2, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+60 61 1 32.179114
+60 65 1 28.608168
+60 66 1 27.602602
+62 61 1 32.152677
+62 65 1 28.578427
+62 66 1 27.571778
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+73 65 1 30.737715
+62 91 1 2.222745
+60 61 0 32.179114
+38 66 0 36.062857
+
+{'best points': 0, 'close points': 1, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+73 65 1 30.737715
+60 61 0 32.179114
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :29
+WAWE:    53    99 
+
+predict with mod
+# 	X	Y	P	Approximate
+60 29 4 69.460747
+60 78 2 21.444140
+83 29 2 75.586802
+61 29 2 69.632966
+86 29 2 76.657512
+60 41 2 58.007178
+66 29 2 70.385763
+60 31 2 67.536215
+60 27 2 72.274343
+83 31 1 73.822149
+61 31 1 67.713330
+66 27 1 73.163795
+66 31 1 68.487230
+66 41 1 59.111700
+66 78 1 24.273679
+61 27 1 72.439874
+61 41 1 58.213292
+83 27 1 78.180240
+61 78 1 21.995586
+86 27 1 79.215904
+83 78 1 36.720846
+86 41 1 66.456087
+86 78 1 38.877114
+83 41 1 65.218111
+86 31 1 74.918083
+
+{'best points': 0, 'close points': 0, 'far points': 25}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+60 29 4 69.460747
+60 27 2 72.274343
+60 31 2 67.536215
+61 29 2 69.632966
+66 29 2 70.385763
+61 27 1 72.439874
+61 31 1 67.713330
+66 27 1 73.163795
+66 31 1 68.487230
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+59 78 1 21.321006
+60 27 1 72.312832
+61 30 1 69.458398
+66 29 1 70.558476
+83 41 0 65.218111
+86 31 0 74.918083
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+60 27 1 72.312832
+66 29 1 70.558476
+61 30 0 69.458398
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+DENEME SAYISI :30
+WAWE:    7    44 
+
+predict with mod
+# 	X	Y	P	Approximate
+3 44 20 3.368792
+25 44 5 18.922613
+5 44 5 1.628233
+3 33 4 10.671280
+25 33 1 21.461424
+5 33 1 10.255662
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+3 44 20 3.313389
+5 44 5 1.693095
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+25 33 1 21.461424
+5 44 1 1.679186
+3 44 0 3.743387
+3 44 0 3.216451
+3 44 0 3.989613
+3 44 0 3.014326
+
+{'best points': 0, 'close points': 5, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+5 44 1 1.679186
+3 44 1 3.989613
+3 44 0 3.743387
+3 44 0 3.216451
+3 44 0 3.014326
+
+{'best points': 0, 'close points': 5, 'far points': 0}
+DENEME SAYISI :31
+WAWE:    86    87 
+
+predict with mod
+# 	X	Y	P	Approximate
+21 28 1 86.470403
+21 85 1 64.075763
+21 40 1 79.293354
+21 47 1 75.031154
+82 28 1 58.216431
+82 85 1 4.210192
+82 40 1 46.898382
+82 47 1 39.264442
+83 28 1 58.142525
+83 85 1 3.020936
+83 40 1 46.806608
+83 47 1 39.154779
+61 28 1 62.926191
+61 85 1 24.254452
+61 40 1 52.630893
+61 47 1 45.959211
+
+{'best points': 0, 'close points': 2, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+83 40 1 46.806608
+21 28 0 86.470403
+82 85 0 4.210192
+61 47 0 45.959211
+
+{'best points': 0, 'close points': 1, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+61 47 1 45.959211
+83 40 0 46.806608
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :32
+WAWE:    4    83 
+
+predict with mod
+# 	X	Y	P	Approximate
+3 65 2 17.456317
+3 63 2 19.305172
+3 85 2 2.793720
+3 83 2 1.120687
+49 65 1 48.593050
+49 63 1 49.287434
+49 85 1 45.435298
+49 83 1 45.363172
+43 65 1 42.863804
+43 63 1 43.649425
+43 85 1 39.247771
+43 83 1 39.164251
+
+{'best points': 0, 'close points': 2, 'far points': 10}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+49 65 1 48.593050
+43 63 1 43.649425
+2 85 0 2.980194
+3 83 0 0.764527
+
+{'best points': 1, 'close points': 1, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+3 83 1 0.764527
+2 85 0 2.980194
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+DENEME SAYISI :33
+WAWE:    61    23 
+
+predict with mod
+# 	X	Y	P	Approximate
+61 22 12 1.004035
+61 16 4 6.208472
+61 11 4 11.816370
+61 23 4 0.837792
+50 22 3 10.579088
+70 22 3 9.409562
+50 16 1 12.225144
+50 11 1 15.828317
+50 23 1 10.564607
+70 16 1 11.228397
+70 11 1 15.071774
+70 23 1 9.393278
+
+{'best points': 1, 'close points': 1, 'far points': 10}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+61 22 12 1.004035
+61 23 4 0.837792
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+61 21 1 1.500860
+61 22 1 0.629094
+62 22 1 1.228034
+70 23 1 9.393278
+60 16 0 6.173394
+50 11 0 15.828317
+
+{'best points': 1, 'close points': 2, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+60 16 1 6.173394
+61 21 0 1.500860
+61 22 0 0.629094
+62 22 0 1.228034
+
+{'best points': 1, 'close points': 2, 'far points': 1}
+DENEME SAYISI :34
+WAWE:    87    76 
+
+predict with mod
+# 	X	Y	P	Approximate
+48 6 1 79.575721
+48 46 1 48.918218
+48 76 1 38.648851
+48 87 1 40.305487
+76 6 1 70.323136
+76 46 1 31.718136
+76 76 1 10.333529
+76 87 1 15.413642
+80 6 1 69.870891
+80 46 1 30.702412
+80 76 1 6.586333
+80 87 1 13.197664
+95 6 1 70.082810
+95 46 1 31.181677
+95 76 1 8.546266
+95 87 1 14.277157
+
+{'best points': 0, 'close points': 0, 'far points': 16}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+80 76 1 6.586333
+95 87 1 14.277157
+48 6 0 79.575721
+76 46 0 31.718136
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+80 76 1 6.586333
+76 46 0 31.718136
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :35
+WAWE:    74    45 
+
+predict with mod
+# 	X	Y	P	Approximate
+74 44 12 0.835053
+74 47 4 2.440278
+74 51 4 6.273071
+74 45 4 1.050426
+74 91 4 46.399823
+37 44 3 36.500659
+72 44 3 1.955094
+78 44 3 4.511842
+78 51 1 7.681851
+78 45 1 4.556622
+78 91 1 46.611189
+78 47 1 5.061063
+72 47 1 3.013310
+72 51 1 6.517400
+72 45 1 2.056326
+72 91 1 46.433486
+37 47 1 36.572610
+37 51 1 37.026372
+37 45 1 36.506222
+37 91 1 59.030029
+
+{'best points': 1, 'close points': 7, 'far points': 12}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+74 44 12 0.869190
+74 45 4 1.089672
+74 47 4 2.457427
+72 44 3 1.948482
+78 44 3 4.508981
+72 45 1 2.056326
+72 47 1 3.013310
+78 45 1 4.556622
+78 47 1 5.061063
+
+{'best points': 1, 'close points': 7, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 44 1 0.916784
+74 44 1 1.048228
+74 44 1 0.874534
+37 91 1 59.030029
+74 47 0 2.320956
+78 51 0 7.681851
+72 45 0 2.056326
+
+{'best points': 2, 'close points': 3, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 47 1 2.320956
+78 51 1 7.681851
+72 45 1 2.056326
+74 44 0 0.916784
+74 44 0 1.048228
+74 44 0 0.874534
+
+{'best points': 2, 'close points': 3, 'far points': 1}
+DENEME SAYISI :36
+WAWE:    64    80 
+
+predict with mod
+# 	X	Y	P	Approximate
+64 80 12 0.587509
+64 82 8 2.610256
+64 87 4 7.030242
+63 80 3 0.948832
+67 80 3 3.039359
+63 82 2 2.714508
+67 82 2 3.963076
+63 87 1 7.069612
+67 87 1 7.636546
+
+{'best points': 2, 'close points': 4, 'far points': 3}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+65 80 9 1.139006
+63 80 6 0.704133
+65 82 6 2.754840
+63 82 4 2.605305
+67 80 3 3.068251
+67 82 2 3.963076
+
+{'best points': 1, 'close points': 5, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+64 80 1 1.104760
+65 80 1 1.243741
+64 80 1 0.982257
+63 82 0 2.303053
+63 83 0 3.006576
+67 87 0 7.636546
+
+{'best points': 1, 'close points': 4, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+64 80 1 1.104760
+64 80 1 0.982257
+65 80 0 1.243741
+
+{'best points': 1, 'close points': 2, 'far points': 0}
+DENEME SAYISI :37
+WAWE:    25    15 
+
+predict with mod
+# 	X	Y	P	Approximate
+21 13 20 3.314377
+16 13 5 8.451640
+18 13 5 6.638298
+21 31 4 16.673478
+16 31 1 18.397010
+18 31 1 17.637652
+
+{'best points': 0, 'close points': 1, 'far points': 5}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+22 13 20 2.924920
+18 13 5 6.630710
+
+{'best points': 0, 'close points': 1, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+22 13 1 2.941609
+21 13 1 3.605690
+18 13 1 6.608036
+16 31 0 18.397010
+22 13 0 2.772791
+21 13 0 3.484911
+
+{'best points': 0, 'close points': 4, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+18 13 1 6.608036
+22 13 0 2.772791
+22 13 0 2.941609
+21 13 0 3.484911
+21 13 0 3.605690
+
+{'best points': 0, 'close points': 4, 'far points': 1}
+DENEME SAYISI :38
+WAWE:    46    22 
+
+predict with mod
+# 	X	Y	P	Approximate
+45 22 9 0.548634
+45 26 6 4.079946
+47 22 6 1.577639
+47 26 4 4.339804
+45 92 3 70.897138
+3 22 3 42.773648
+47 92 2 70.912566
+3 26 2 42.964287
+3 92 1 82.799083
+
+{'best points': 1, 'close points': 3, 'far points': 5}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+45 22 9 0.551961
+45 26 6 4.079946
+47 22 6 1.578799
+47 26 4 4.339804
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+45 22 1 0.537934
+47 25 1 4.313461
+45 22 0 0.574678
+45 22 0 0.591230
+47 26 0 4.418220
+3 92 0 82.799083
+
+{'best points': 3, 'close points': 2, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+47 26 1 4.418220
+47 25 1 4.313461
+45 22 0 0.574678
+45 22 0 0.591230
+45 22 0 0.537934
+
+{'best points': 3, 'close points': 2, 'far points': 0}
+DENEME SAYISI :39
+WAWE:    79    11 
+
+predict with mod
+# 	X	Y	P	Approximate
+4 35 1 78.835439
+4 9 1 74.902671
+80 35 1 24.653305
+80 9 1 1.780201
+
+{'best points': 0, 'close points': 1, 'far points': 3}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+80 9 1 1.780201
+4 35 0 78.835439
+
+{'best points': 0, 'close points': 1, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+4 35 1 78.835439
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :40
+WAWE:    21    11 
+
+predict with mod
+# 	X	Y	P	Approximate
+16 9 4 4.434417
+18 9 2 3.233273
+16 8 2 4.709525
+18 8 1 3.601337
+
+{'best points': 0, 'close points': 4, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+16 8 4 4.684417
+16 9 2 4.252196
+18 8 2 3.568439
+18 9 1 2.978451
+
+{'best points': 0, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+16 8 1 4.883043
+18 9 0 2.978451
+17 8 0 4.492257
+
+{'best points': 0, 'close points': 3, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+16 8 1 4.883043
+17 8 0 4.492257
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+DENEME SAYISI :41
+WAWE:    71    92 
+
+predict with mod
+# 	X	Y	P	Approximate
+85 71 2 25.198874
+85 75 2 21.801686
+85 73 2 23.161455
+85 84 2 16.050723
+82 71 1 23.590363
+82 75 1 19.920729
+82 73 1 21.400349
+82 84 1 13.384604
+74 71 1 20.885366
+74 75 1 16.629154
+74 73 1 18.375751
+74 84 1 7.670785
+
+{'best points': 0, 'close points': 0, 'far points': 12}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+85 71 2 25.198874
+85 73 2 23.161455
+85 75 2 21.801686
+82 71 1 23.590363
+82 73 1 21.400349
+82 75 1 19.920729
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+85 71 1 25.323723
+85 73 1 23.026932
+82 75 0 19.920729
+74 84 0 7.670785
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+85 73 1 23.026932
+82 75 0 19.920729
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :42
+WAWE:    66    3 
+
+predict with mod
+# 	X	Y	P	Approximate
+65 3 2 0.609833
+70 3 2 4.802997
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+65 3 2 0.609833
+70 3 2 4.802997
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+70 3 1 4.867084
+65 3 0 0.257142
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+65 3 1 0.257142
+
+{'best points': 1, 'close points': 0, 'far points': 0}
+DENEME SAYISI :43
+WAWE:    44    53 
+
+predict with mod
+# 	X	Y	P	Approximate
+43 53 15 0.175675
+45 53 15 1.671730
+43 48 3 4.688384
+45 48 3 4.974411
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+43 53 15 0.180978
+45 53 15 1.672296
+43 48 3 4.688384
+45 48 3 4.974411
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+45 52 1 1.160048
+45 53 1 1.256264
+46 53 1 2.169031
+43 48 0 4.712951
+43 52 0 0.888683
+43 53 0 0.060280
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+43 52 1 0.888683
+43 53 1 0.060280
+46 53 1 2.169031
+45 52 0 1.160048
+45 53 0 1.256264
+
+{'best points': 2, 'close points': 3, 'far points': 0}
+DENEME SAYISI :44
+WAWE:    96    8 
+
+predict with mod
+# 	X	Y	P	Approximate
+38 99 1 107.978804
+38 75 1 89.036050
+17 99 1 120.198415
+17 75 1 103.516448
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+17 75 1 103.516448
+38 99 0 107.978804
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+17 75 1 103.516448
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :45
+WAWE:    38    48 
+
+predict with mod
+# 	X	Y	P	Approximate
+36 47 12 1.462398
+38 47 12 0.750342
+36 48 6 1.338192
+38 48 6 0.463855
+
+{'best points': 2, 'close points': 2, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+36 48 18 1.325686
+38 48 18 0.426437
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+35 46 1 2.684948
+36 47 1 1.498416
+37 47 1 1.157280
+37 48 0 0.371483
+38 48 0 0.142350
+38 47 0 0.972894
+
+{'best points': 3, 'close points': 3, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+37 47 1 1.157280
+36 47 0 1.498416
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+DENEME SAYISI :46
+WAWE:    46    17 
+
+predict with mod
+# 	X	Y	P	Approximate
+45 17 4 0.304647
+45 14 4 2.557456
+63 17 2 17.868488
+26 14 2 19.932833
+26 17 2 19.770434
+42 14 2 4.534958
+42 17 2 3.757402
+45 25 2 8.207269
+63 14 2 18.048009
+44 14 2 2.802582
+44 17 2 1.186042
+45 40 2 23.226006
+63 25 1 19.660857
+44 40 1 23.254274
+63 40 1 29.302515
+42 25 1 9.021338
+44 25 1 8.286927
+42 40 1 23.525999
+26 25 1 21.404124
+26 40 1 30.499584
+
+{'best points': 1, 'close points': 5, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+45 14 4 2.557456
+45 17 4 0.304647
+42 14 2 4.534958
+42 17 2 3.757402
+44 14 2 2.802582
+44 17 2 1.186042
+
+{'best points': 1, 'close points': 5, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+45 17 1 0.430709
+45 14 1 2.642939
+42 14 1 4.487185
+26 17 1 19.768931
+44 25 0 8.286927
+63 40 0 29.302515
+
+{'best points': 1, 'close points': 2, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+44 25 1 8.286927
+42 14 1 4.487185
+45 17 0 0.430709
+45 14 0 2.642939
+
+{'best points': 1, 'close points': 2, 'far points': 1}
+DENEME SAYISI :47
+WAWE:    85    36 
+
+predict with mod
+# 	X	Y	P	Approximate
+72 35 2 12.796309
+89 35 2 4.351601
+84 35 2 1.073175
+91 35 2 6.681437
+87 35 2 2.554714
+95 35 2 10.261522
+87 37 1 2.685657
+72 45 1 16.065305
+72 37 1 12.823093
+72 49 1 18.800359
+72 55 1 23.512020
+84 45 1 9.772421
+84 37 1 1.355690
+84 49 1 13.815198
+84 55 1 19.754019
+87 45 1 10.043658
+89 55 1 20.199158
+87 49 1 14.008374
+89 49 1 14.444529
+95 45 1 14.129662
+95 37 1 10.294903
+95 49 1 17.175763
+95 55 1 22.234397
+91 45 1 11.789406
+91 37 1 6.732591
+91 49 1 15.308481
+91 55 1 20.825733
+89 45 1 10.643539
+89 37 1 4.429743
+87 55 1 19.889598
+
+{'best points': 0, 'close points': 6, 'far points': 24}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+84 37 1 1.355690
+84 45 1 9.772421
+87 37 1 2.685657
+87 45 1 10.043658
+89 37 1 4.429743
+89 45 1 10.643539
+91 37 1 6.732591
+91 45 1 11.789406
+
+{'best points': 0, 'close points': 3, 'far points': 5}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+89 55 1 20.199158
+91 49 1 15.308481
+87 45 1 10.043658
+95 37 0 10.294903
+84 35 0 1.123870
+72 35 0 12.792385
+
+{'best points': 0, 'close points': 1, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+87 45 1 10.043658
+91 49 0 15.308481
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :48
+WAWE:    97    33 
+
+predict with mod
+# 	X	Y	P	Approximate
+96 32 6 0.994285
+83 32 3 13.492885
+89 32 3 7.946250
+93 32 3 3.706689
+85 32 3 11.664880
+96 64 2 31.504925
+96 34 2 1.484574
+96 26 2 6.690309
+85 34 1 11.716859
+93 34 1 3.867156
+93 64 1 31.706644
+85 26 1 13.410483
+89 64 1 32.476370
+85 64 1 33.580368
+83 26 1 15.027627
+89 34 1 8.022359
+83 34 1 13.537848
+83 64 1 34.258279
+89 26 1 10.339947
+93 26 1 7.583612
+
+{'best points': 1, 'close points': 3, 'far points': 16}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+89 32 3 7.935038
+93 32 3 3.682592
+89 34 1 8.022359
+93 34 1 3.867156
+
+{'best points': 0, 'close points': 2, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+89 64 1 32.476370
+96 34 1 1.507338
+96 32 1 0.605947
+93 32 1 3.703493
+83 26 0 15.027627
+85 31 0 11.711801
+
+{'best points': 1, 'close points': 2, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+85 31 1 11.711801
+96 34 0 1.507338
+96 32 0 0.605947
+93 32 0 3.703493
+
+{'best points': 1, 'close points': 2, 'far points': 1}
+DENEME SAYISI :49
+WAWE:    19    73 
+
+predict with mod
+# 	X	Y	P	Approximate
+17 72 1 1.768412
+17 73 1 1.885942
+17 77 1 4.456228
+17 33 1 39.296294
+18 72 1 0.652179
+18 73 1 0.924571
+18 77 1 4.141983
+18 33 1 39.261899
+21 72 1 2.432321
+21 73 1 2.519063
+21 77 1 4.758873
+21 33 1 39.331763
+59 72 1 40.580673
+59 73 1 40.585965
+59 77 1 40.786293
+59 33 1 56.461159
+
+{'best points': 2, 'close points': 7, 'far points': 7}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+17 72 1 1.768412
+17 73 1 1.885942
+17 77 1 4.456228
+18 72 1 0.652179
+18 73 1 0.924571
+18 77 1 4.141983
+21 72 1 2.432321
+21 73 1 2.519063
+21 77 1 4.758873
+
+{'best points': 2, 'close points': 7, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+17 72 1 1.768412
+18 73 0 0.924571
+21 77 0 4.758873
+59 33 0 56.461159
+
+{'best points': 1, 'close points': 2, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+21 77 1 4.758873
+17 72 0 1.768412
+18 73 0 0.924571
+
+{'best points': 1, 'close points': 2, 'far points': 0}
+DENEME SAYISI :50
+WAWE:    12    1 
+
+predict with mod
+# 	X	Y	P	Approximate
+51 13 1 41.254204
+51 2 1 39.315732
+51 0 1 39.280532
+49 13 1 39.647472
+49 2 1 37.626314
+49 0 1 37.589532
+21 13 1 15.792860
+21 2 1 9.655668
+21 0 1 9.511326
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+49 0 1 37.589532
+49 2 1 37.626314
+51 0 1 39.280532
+51 2 1 39.315732
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+51 13 1 41.254204
+49 2 0 37.626314
+21 0 0 9.511326
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+49 2 1 37.626314
+51 13 0 41.254204
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :51
+WAWE:    90    17 
+
+predict with mod
+# 	X	Y	P	Approximate
+89 6 4 10.103458
+89 5 4 11.423647
+85 6 4 10.958729
+85 5 4 12.186615
+91 6 2 10.266218
+91 5 2 11.567847
+89 19 2 2.921308
+89 10 2 6.895189
+85 19 2 5.152467
+85 10 2 8.096759
+83 6 2 12.104933
+83 5 2 13.226838
+91 19 1 3.442296
+91 10 1 7.131549
+83 19 1 7.278981
+83 10 1 9.591307
+
+{'best points': 0, 'close points': 2, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+85 6 6 11.764228
+89 6 6 10.971927
+83 6 3 12.838720
+91 6 3 11.121985
+85 7 2 10.575739
+85 10 2 8.096759
+89 7 2 9.686711
+89 10 2 6.895189
+83 7 1 11.759333
+83 10 1 9.591307
+91 7 1 9.856355
+91 10 1 7.131549
+
+{'best points': 0, 'close points': 0, 'far points': 12}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+86 7 1 10.407370
+85 5 1 12.196421
+83 5 1 13.366989
+91 19 0 3.442296
+90 10 0 6.881671
+89 6 0 10.550959
+
+{'best points': 0, 'close points': 1, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+89 6 1 10.550959
+83 5 1 13.366989
+86 7 0 10.407370
+85 5 0 12.196421
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+DENEME SAYISI :52
+WAWE:    65    93 
+
+predict with mod
+# 	X	Y	P	Approximate
+48 64 2 33.253601
+73 64 2 29.845908
+59 64 2 29.106340
+72 64 2 29.572283
+64 64 2 28.616797
+64 92 1 0.979639
+59 92 1 5.405338
+48 41 1 54.672813
+48 92 1 16.965866
+59 45 1 47.569244
+59 41 1 52.254124
+72 41 1 52.515087
+72 45 1 47.855761
+72 92 1 7.520542
+73 45 1 48.025329
+73 41 1 52.669656
+73 92 1 8.533281
+64 45 1 47.271292
+64 41 1 51.983031
+48 45 1 50.214101
+
+{'best points': 1, 'close points': 0, 'far points': 19}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+59 64 2 29.106340
+64 64 2 28.616797
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+72 41 1 52.515087
+64 92 0 0.979639
+73 64 0 29.544146
+59 64 0 29.415966
+48 45 0 50.214101
+
+{'best points': 1, 'close points': 0, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+73 64 1 29.544146
+59 64 0 29.415966
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :53
+WAWE:    88    18 
+
+predict with mod
+# 	X	Y	P	Approximate
+87 15 6 2.582380
+87 16 3 1.336384
+87 29 3 11.500696
+87 33 3 15.924727
+90 15 2 3.399548
+99 15 2 11.870111
+90 16 1 2.583439
+90 29 1 11.711287
+90 33 1 16.077474
+99 16 1 11.662622
+99 29 1 16.324731
+99 33 1 19.693343
+
+{'best points': 0, 'close points': 4, 'far points': 8}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+87 15 6 2.542930
+87 16 3 1.258462
+90 15 2 3.399548
+90 16 1 2.583439
+
+{'best points': 0, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+88 16 1 1.248295
+87 15 1 2.451746
+87 15 1 2.801834
+90 29 0 11.711287
+99 33 0 19.693343
+
+{'best points': 0, 'close points': 3, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+88 16 1 1.248295
+87 15 1 2.801834
+87 15 0 2.451746
+
+{'best points': 0, 'close points': 3, 'far points': 0}
+DENEME SAYISI :54
+WAWE:    62    17 
+
+predict with mod
+# 	X	Y	P	Approximate
+5 3 1 58.343508
+48 16 1 13.032143
+66 16 1 4.529870
+66 7 1 10.589443
+66 21 1 6.322302
+66 3 1 14.554078
+62 15 1 1.622892
+62 16 1 0.268101
+62 7 1 9.575410
+62 21 1 4.418558
+62 3 1 13.833776
+48 15 1 13.130067
+48 7 1 16.169519
+5 21 1 56.851695
+48 21 1 13.758217
+48 3 1 19.003637
+52 15 1 9.654465
+52 16 1 9.520861
+52 7 1 13.500496
+52 21 1 10.492787
+52 3 1 16.791315
+5 15 1 56.702957
+5 16 1 56.680362
+5 7 1 57.482868
+66 15 1 4.804334
+
+{'best points': 1, 'close points': 4, 'far points': 20}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+48 15 1 13.130067
+48 16 1 13.032143
+52 15 1 9.654465
+52 16 1 9.520861
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+5 3 1 58.343508
+48 7 1 16.169519
+52 21 0 10.492787
+62 16 0 0.268101
+66 15 0 4.804334
+
+{'best points': 1, 'close points': 1, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+52 21 1 10.492787
+48 7 1 16.169519
+62 16 0 0.268101
+66 15 0 4.804334
+
+{'best points': 1, 'close points': 1, 'far points': 2}
+DENEME SAYISI :55
+WAWE:    71    31 
+
+predict with mod
+# 	X	Y	P	Approximate
+76 19 2 12.693578
+76 39 2 10.260113
+76 49 2 19.710605
+76 32 2 5.784199
+76 38 2 8.940240
+76 16 2 15.535241
+72 16 1 14.607032
+72 38 1 7.207603
+40 39 1 31.983042
+40 49 1 36.140739
+40 32 1 30.839942
+40 38 1 31.584379
+40 16 1 34.043925
+68 19 1 11.715014
+68 39 1 9.021338
+68 49 1 19.095093
+68 32 1 3.093798
+68 38 1 7.486155
+68 16 1 14.746469
+66 19 1 12.286510
+66 39 1 9.751990
+66 49 1 19.450947
+66 32 1 4.825801
+66 38 1 8.352203
+66 16 1 15.204444
+72 19 1 11.539003
+72 39 1 8.791563
+72 49 1 18.987617
+72 32 1 2.340644
+40 19 1 32.844665
+
+{'best points': 0, 'close points': 3, 'far points': 27}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+66 32 1 4.825801
+66 38 1 8.352203
+66 39 1 9.751990
+68 32 1 3.093798
+68 38 1 7.486155
+68 39 1 9.021338
+72 32 1 2.340644
+72 38 1 7.207603
+72 39 1 8.791563
+
+{'best points': 0, 'close points': 3, 'far points': 6}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+76 49 1 19.659238
+76 39 1 10.361646
+72 16 0 14.607032
+66 38 0 8.352203
+68 32 0 3.093798
+40 19 0 32.844665
+
+{'best points': 0, 'close points': 1, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+68 32 1 3.093798
+76 39 1 10.361646
+66 38 0 8.352203
+
+{'best points': 0, 'close points': 1, 'far points': 2}
+DENEME SAYISI :56
+WAWE:    25    34 
+
+predict with mod
+# 	X	Y	P	Approximate
+23 32 20 1.564863
+27 32 5 2.942097
+22 32 5 2.862525
+23 35 4 1.671544
+27 35 1 3.000200
+22 35 1 2.922210
+
+{'best points': 0, 'close points': 6, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+24 33 15 1.314173
+22 33 10 2.376985
+27 33 5 2.877657
+24 35 3 1.564399
+22 35 2 2.523955
+27 35 1 3.000200
+
+{'best points': 0, 'close points': 6, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+22 32 1 2.848659
+23 33 1 1.874793
+27 35 0 3.000200
+23 32 0 1.680582
+24 32 0 1.542744
+24 32 0 1.531056
+
+{'best points': 0, 'close points': 6, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+23 33 1 1.874793
+23 32 0 1.680582
+24 32 0 1.542744
+24 32 0 1.531056
+
+{'best points': 0, 'close points': 4, 'far points': 0}
+DENEME SAYISI :57
+WAWE:    70    82 
+
+predict with mod
+# 	X	Y	P	Approximate
+68 99 3 17.084008
+68 75 3 6.218054
+68 77 3 4.546631
+68 86 3 4.647657
+68 84 3 2.553486
+68 94 3 12.640274
+85 77 1 16.443194
+70 86 1 4.598398
+70 77 1 4.496266
+70 75 1 6.181322
+70 94 1 12.622246
+70 99 1 17.070673
+85 84 1 16.007095
+85 86 1 16.471415
+85 99 1 23.271659
+85 75 1 16.981490
+85 94 1 20.235694
+72 84 1 3.633715
+72 86 1 5.318299
+72 77 1 5.230243
+72 75 1 6.734076
+72 94 1 12.901943
+72 99 1 17.278510
+70 84 1 2.462690
+
+{'best points': 0, 'close points': 7, 'far points': 17}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+68 84 3 2.553486
+68 86 3 4.647657
+70 84 1 2.462690
+70 86 1 4.598398
+72 84 1 3.633715
+72 86 1 5.318299
+
+{'best points': 0, 'close points': 5, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+68 99 1 17.105298
+72 94 1 12.901943
+85 75 0 16.981490
+68 77 0 4.694867
+69 86 0 4.569285
+70 84 0 2.462690
+
+{'best points': 0, 'close points': 3, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+68 77 1 4.694867
+69 86 0 4.569285
+70 84 0 2.462690
+
+{'best points': 0, 'close points': 3, 'far points': 0}
+DENEME SAYISI :58
+WAWE:    26    15 
+
+predict with mod
+# 	X	Y	P	Approximate
+22 18 2 4.976730
+25 18 2 3.609259
+12 18 2 13.623593
+44 18 2 19.020548
+24 18 2 3.979274
+5 18 2 21.057027
+20 18 2 6.964626
+5 10 1 21.236019
+44 31 1 24.899330
+44 5 1 21.152505
+44 16 1 18.757623
+12 31 1 21.066505
+5 15 1 20.751207
+44 10 1 19.218516
+5 16 1 20.819836
+20 31 1 17.512892
+20 5 1 11.582453
+20 16 1 6.210731
+5 5 1 23.000992
+20 15 1 5.976637
+20 10 1 7.488398
+44 15 1 18.681420
+12 16 1 13.254035
+12 5 1 16.469654
+25 5 1 9.933477
+22 15 1 3.461506
+22 16 1 3.851624
+22 5 1 10.507857
+22 31 1 16.821510
+25 10 1 4.538375
+25 15 1 0.490849
+25 16 1 1.758954
+25 31 1 16.468823
+22 10 1 5.686645
+24 10 1 4.837842
+24 15 1 1.746082
+24 16 1 2.429359
+24 5 1 10.073819
+24 31 1 16.553851
+12 10 1 13.898646
+12 15 1 13.145967
+5 31 1 26.487616
+
+{'best points': 1, 'close points': 10, 'far points': 31}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+20 18 2 6.964626
+22 18 2 4.976730
+24 18 2 3.979274
+25 18 2 3.609259
+20 15 1 5.976637
+20 16 1 6.210731
+22 15 1 3.461506
+22 16 1 3.851624
+24 15 1 1.746082
+24 16 1 2.429359
+25 15 1 0.490849
+25 16 1 1.758954
+
+{'best points': 1, 'close points': 8, 'far points': 3}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+22 18 1 5.235585
+25 10 1 4.538375
+24 15 1 1.746082
+20 18 1 6.790371
+44 5 1 21.152505
+12 16 0 13.254035
+5 31 0 26.487616
+
+{'best points': 0, 'close points': 2, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+25 10 1 4.538375
+24 15 1 1.746082
+12 16 1 13.254035
+22 18 0 5.235585
+20 18 0 6.790371
+
+{'best points': 0, 'close points': 2, 'far points': 3}
+DENEME SAYISI :59
+WAWE:    35    14 
+
+predict with mod
+# 	X	Y	P	Approximate
+53 35 1 28.280282
+53 7 1 19.157344
+53 4 1 20.308352
+13 35 1 30.796607
+13 7 1 22.708158
+13 4 1 23.687249
+22 35 1 25.059039
+22 7 1 13.970859
+22 4 1 15.511615
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+22 4 1 15.511615
+22 7 1 13.970859
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+13 7 1 22.708158
+53 35 0 28.280282
+22 4 0 15.511615
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+22 4 1 15.511615
+13 7 0 22.708158
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :60
+WAWE:    54    42 
+
+predict with mod
+# 	X	Y	P	Approximate
+56 42 4 2.435715
+56 50 4 8.977237
+68 42 2 14.311660
+68 50 2 16.717706
+54 42 2 0.867882
+54 50 2 8.683968
+56 38 2 4.204834
+56 40 2 2.817215
+49 50 2 9.574393
+58 42 2 4.517639
+58 50 2 9.750238
+49 42 2 4.124431
+58 38 1 5.670713
+49 40 1 4.360610
+58 40 1 4.734243
+54 40 1 1.660486
+54 38 1 3.535696
+49 38 1 5.362728
+68 40 1 14.381502
+68 38 1 14.716370
+
+{'best points': 1, 'close points': 9, 'far points': 10}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+56 42 4 2.435715
+54 42 2 0.867882
+56 38 2 4.204834
+56 40 2 2.817215
+58 42 2 4.517639
+54 38 1 3.535696
+54 40 1 1.660486
+58 38 1 5.670713
+58 40 1 4.734243
+
+{'best points': 1, 'close points': 7, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+49 51 1 9.951679
+56 38 1 4.024735
+54 42 1 0.657019
+58 40 0 4.734243
+56 43 0 2.898508
+68 50 0 16.506359
+
+{'best points': 1, 'close points': 3, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+58 40 1 4.734243
+56 38 1 4.024735
+56 43 0 2.898508
+54 42 0 0.657019
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+DENEME SAYISI :61
+WAWE:    6    43 
+
+predict with mod
+# 	X	Y	P	Approximate
+28 66 1 32.791446
+28 44 1 22.897600
+28 43 1 22.821937
+44 66 1 45.212598
+44 44 1 38.641949
+44 43 1 38.597162
+4 66 1 23.595566
+4 44 1 2.402474
+4 43 1 1.520730
+
+{'best points': 0, 'close points': 2, 'far points': 7}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+28 43 1 22.821937
+28 44 1 22.897600
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+44 44 1 38.641949
+28 66 0 32.791446
+4 43 0 1.520730
+
+{'best points': 0, 'close points': 1, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+28 66 1 32.791446
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :62
+WAWE:    16    2 
+
+predict with mod
+# 	X	Y	P	Approximate
+31 5 2 15.565256
+75 5 2 59.813146
+46 5 2 30.211433
+31 91 1 90.983384
+75 91 1 107.765075
+46 91 1 94.596139
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+46 5 2 30.211433
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+31 5 1 15.554922
+75 91 0 107.765075
+46 5 0 30.216835
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+46 5 1 30.216835
+31 5 0 15.554922
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :63
+WAWE:    64    34 
+
+predict with mod
+# 	X	Y	P	Approximate
+64 34 6 0.310331
+61 34 4 2.222800
+64 22 3 11.501744
+64 39 3 5.706425
+64 35 3 1.323365
+64 80 3 46.413492
+64 91 3 57.826710
+64 37 3 3.568284
+61 91 2 57.868583
+12 34 2 51.329259
+10 34 2 53.609509
+58 34 2 5.306885
+61 80 2 46.465652
+61 35 2 2.568234
+61 39 2 6.116194
+61 37 2 4.192515
+61 22 2 11.710450
+12 35 1 51.345378
+10 80 1 70.909065
+10 35 1 53.624943
+10 39 1 53.911469
+10 37 1 53.727235
+10 22 1 54.828581
+12 91 1 77.320921
+12 80 1 69.201219
+58 39 1 7.786528
+12 39 1 51.644552
+12 37 1 51.452203
+12 22 1 52.601203
+58 91 1 58.068882
+58 80 1 46.714869
+58 35 1 5.460588
+58 37 1 6.387439
+58 22 1 12.663208
+10 91 1 78.853101
+
+{'best points': 1, 'close points': 5, 'far points': 29}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+64 34 6 0.318114
+61 34 4 2.222800
+64 35 3 1.325211
+64 37 3 3.568969
+64 39 3 5.706854
+58 34 2 5.306885
+61 35 2 2.568234
+61 37 2 4.192515
+61 39 2 6.116194
+58 35 1 5.460588
+58 37 1 6.387439
+58 39 1 7.786528
+
+{'best points': 1, 'close points': 5, 'far points': 6}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+64 22 1 11.508124
+62 34 1 1.786620
+64 34 1 0.386078
+12 80 1 69.201219
+10 91 1 78.853101
+61 37 0 4.463961
+63 39 0 5.716998
+58 35 0 5.460588
+
+{'best points': 1, 'close points': 2, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+64 22 1 11.508124
+63 39 1 5.716998
+61 37 0 4.463961
+62 34 0 1.786620
+64 34 0 0.386078
+58 35 0 5.460588
+
+{'best points': 1, 'close points': 2, 'far points': 3}
+DENEME SAYISI :64
+WAWE:    89    38 
+
+predict with mod
+# 	X	Y	P	Approximate
+86 26 2 11.648358
+86 30 2 8.390719
+86 60 2 23.168625
+86 32 2 5.943237
+86 14 2 24.121270
+86 42 2 5.148971
+88 14 1 23.948466
+88 30 1 7.880198
+88 60 1 22.988662
+88 32 1 5.197637
+4 30 1 84.774453
+4 26 1 85.158604
+4 42 1 84.515180
+88 26 1 11.286169
+4 60 1 87.481934
+4 32 1 84.567285
+88 42 1 4.266764
+95 60 1 23.795430
+95 14 1 24.723935
+95 32 1 8.047320
+95 30 1 9.992069
+95 42 1 7.479919
+95 26 1 12.849963
+82 14 1 24.780559
+82 32 1 8.219642
+82 60 1 23.854258
+82 30 1 10.131368
+82 42 1 7.665009
+82 26 1 12.958576
+4 14 1 87.739041
+
+{'best points': 0, 'close points': 1, 'far points': 29}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+86 26 2 11.648358
+86 30 2 8.390719
+86 32 2 5.943237
+82 26 1 12.958576
+82 30 1 10.131368
+82 32 1 8.219642
+88 26 1 11.286169
+88 30 1 7.880198
+88 32 1 5.197637
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+82 42 1 7.665009
+95 60 1 23.795430
+86 26 0 11.581112
+85 30 0 8.492868
+88 32 0 5.197637
+4 14 0 87.739041
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+82 42 1 7.665009
+86 26 0 11.581112
+85 30 0 8.492868
+88 32 0 5.197637
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+DENEME SAYISI :65
+WAWE:    26    8 
+
+predict with mod
+# 	X	Y	P	Approximate
+31 12 4 6.995713
+34 12 2 9.867014
+31 14 2 8.655608
+31 39 2 31.546917
+31 36 2 28.970178
+50 12 2 24.852272
+54 12 2 28.575548
+34 14 1 11.105743
+34 39 1 32.305200
+34 36 1 29.794114
+50 14 1 25.369568
+50 39 1 39.546219
+50 36 1 37.522882
+54 14 1 29.026565
+54 39 1 41.986068
+54 36 1 40.086072
+
+{'best points': 0, 'close points': 0, 'far points': 16}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+31 12 4 6.995713
+31 14 2 8.655608
+34 12 2 9.867014
+34 14 1 11.105743
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+34 14 1 11.105743
+31 12 1 7.155773
+31 12 1 6.843988
+50 39 0 39.546219
+54 36 0 40.086072
+
+{'best points': 0, 'close points': 0, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+34 14 1 11.105743
+31 12 0 7.155773
+31 12 0 6.843988
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+DENEME SAYISI :66
+WAWE:    35    48 
+
+predict with mod
+# 	X	Y	P	Approximate
+34 47 36 0.896011
+34 63 6 15.007111
+34 61 6 13.394683
+5 47 6 29.461421
+13 47 6 21.608557
+5 63 1 33.051262
+5 61 1 32.351044
+13 63 1 26.293351
+13 61 1 25.407567
+
+{'best points': 1, 'close points': 0, 'far points': 8}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+35 47 36 1.026877
+
+{'best points': 0, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+34 47 1 0.886535
+34 47 1 0.941816
+34 47 1 0.913274
+35 47 0 0.594367
+35 46 0 1.291606
+36 46 0 1.718157
+5 63 0 33.051262
+13 61 0 25.407567
+
+{'best points': 4, 'close points': 2, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+35 47 1 0.594367
+35 46 1 1.291606
+36 46 1 1.718157
+34 47 0 0.886535
+34 47 0 0.941816
+34 47 0 0.913274
+
+{'best points': 4, 'close points': 2, 'far points': 0}
+DENEME SAYISI :67
+WAWE:    61    47 
+
+predict with mod
+# 	X	Y	P	Approximate
+61 47 30 0.337589
+61 45 6 1.349474
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+61 47 30 0.439033
+61 45 6 1.378021
+
+{'best points': 1, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+61 47 1 0.380238
+61 47 1 0.378896
+61 47 1 0.367832
+61 45 0 1.420613
+60 47 0 0.050800
+60 47 0 0.133787
+
+{'best points': 5, 'close points': 1, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+61 47 1 0.367832
+61 47 0 0.380238
+61 47 0 0.378896
+
+{'best points': 3, 'close points': 0, 'far points': 0}
+DENEME SAYISI :68
+WAWE:    81    69 
+
+predict with mod
+# 	X	Y	P	Approximate
+90 66 6 9.535783
+90 65 3 9.860540
+90 88 3 21.763655
+90 69 3 9.263436
+90 77 3 12.836710
+80 66 2 2.314340
+87 66 2 7.355638
+92 66 2 11.878709
+92 88 1 22.887316
+80 88 1 19.699789
+80 77 1 8.899783
+80 65 1 3.413979
+92 69 1 11.661210
+92 65 1 12.140956
+92 77 1 14.661299
+87 69 1 6.998964
+87 88 1 20.900501
+87 77 1 11.311736
+87 65 1 7.772033
+80 69 1 0.486053
+
+{'best points': 1, 'close points': 2, 'far points': 17}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+90 66 6 9.535783
+90 65 3 9.860540
+90 69 3 9.263436
+87 66 2 7.355638
+92 66 2 11.878709
+87 65 1 7.772033
+87 69 1 6.998964
+92 65 1 12.140956
+92 69 1 11.661210
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+90 65 1 9.774105
+90 66 1 9.316449
+90 66 1 9.693557
+80 69 1 0.486053
+87 77 0 11.311736
+92 88 0 22.887316
+
+{'best points': 1, 'close points': 0, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+90 65 1 9.774105
+90 66 0 9.316449
+90 66 0 9.693557
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+DENEME SAYISI :69
+WAWE:    29    73 
+
+predict with mod
+# 	X	Y	P	Approximate
+28 75 2 2.644919
+28 42 2 30.554672
+28 73 2 0.747633
+28 77 2 4.254064
+28 68 2 4.934573
+28 71 2 1.744638
+28 66 2 6.185743
+38 77 1 10.347377
+24 68 1 6.566146
+24 71 1 4.669906
+38 75 1 9.796262
+38 66 1 11.279831
+38 42 1 31.977478
+38 73 1 9.462035
+36 75 1 8.245179
+38 68 1 10.645242
+38 71 1 9.592441
+24 73 1 4.395818
+36 66 1 9.962469
+36 42 1 31.536889
+36 73 1 7.845147
+36 77 1 8.892943
+36 68 1 9.237824
+24 77 1 6.071353
+24 75 1 5.075417
+24 42 1 30.860205
+43 71 1 14.419731
+43 75 1 14.556115
+43 66 1 15.593214
+43 42 1 33.741263
+43 73 1 14.333313
+43 77 1 14.932580
+43 68 1 15.140506
+63 75 1 34.382074
+24 66 1 7.551668
+63 66 1 34.833818
+63 42 1 45.920795
+63 73 1 34.288342
+63 77 1 34.543139
+63 68 1 34.633531
+63 71 1 34.324557
+36 71 1 8.001946
+
+{'best points': 1, 'close points': 6, 'far points': 35}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+36 66 1 9.962469
+36 68 1 9.237824
+36 71 1 8.001946
+36 73 1 7.845147
+36 75 1 8.245179
+38 66 1 11.279831
+38 68 1 10.645242
+38 71 1 9.592441
+38 73 1 9.462035
+38 75 1 9.796262
+
+{'best points': 0, 'close points': 0, 'far points': 10}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+43 66 1 15.593214
+38 68 1 10.645242
+36 71 1 8.001946
+28 75 0 2.631809
+63 42 0 45.920795
+28 73 0 0.801501
+24 77 0 6.071353
+
+{'best points': 1, 'close points': 1, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+28 75 1 2.631809
+43 66 1 15.593214
+28 73 1 0.801501
+38 68 0 10.645242
+36 71 0 8.001946
+
+{'best points': 1, 'close points': 1, 'far points': 3}
+DENEME SAYISI :70
+WAWE:    84    86 
+
+predict with mod
+# 	X	Y	P	Approximate
+84 85 8 0.945359
+84 57 4 28.277941
+84 83 4 2.438400
+84 86 4 0.670793
+84 37 4 48.998078
+92 85 2 9.042054
+23 85 2 60.507309
+92 57 1 29.673338
+92 83 1 9.317233
+92 86 1 9.017483
+92 37 1 49.816430
+23 57 1 66.782353
+23 83 1 60.549042
+23 86 1 60.503642
+23 37 1 77.852761
+
+{'best points': 2, 'close points': 1, 'far points': 12}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+84 85 8 0.949685
+84 83 4 2.440081
+84 86 4 0.676877
+
+{'best points': 2, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+92 57 1 29.673338
+23 37 1 77.852761
+83 84 0 1.308559
+84 83 0 2.436966
+83 86 0 0.705789
+84 85 0 0.868044
+
+{'best points': 2, 'close points': 2, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+84 83 1 2.436966
+83 86 1 0.705789
+84 85 1 0.868044
+83 84 0 1.308559
+
+{'best points': 2, 'close points': 2, 'far points': 0}
+DENEME SAYISI :71
+WAWE:    68    62 
+
+predict with mod
+# 	X	Y	P	Approximate
+67 61 12 0.861095
+71 61 8 3.219357
+67 59 3 2.785878
+71 59 2 4.169399
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+67 61 12 0.832086
+71 61 8 3.212058
+67 59 3 2.785487
+71 59 2 4.169399
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+67 61 1 0.802857
+71 61 1 3.482004
+67 61 1 0.806533
+67 61 0 0.811381
+70 59 0 4.005125
+
+{'best points': 3, 'close points': 2, 'far points': 0}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+67 61 1 0.811381
+67 61 1 0.806533
+67 61 0 0.802857
+
+{'best points': 3, 'close points': 0, 'far points': 0}
+DENEME SAYISI :72
+WAWE:    99    41 
+
+predict with mod
+# 	X	Y	P	Approximate
+98 40 8 0.747514
+96 40 8 2.134193
+91 40 4 7.499489
+94 40 4 4.249696
+98 62 2 21.000348
+98 43 2 2.302932
+96 62 2 21.095275
+96 43 2 3.049508
+91 62 1 22.286727
+91 43 1 7.809421
+94 62 1 21.412981
+94 43 1 4.775420
+
+{'best points': 1, 'close points': 5, 'far points': 6}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+96 40 6 2.101380
+98 40 6 0.647916
+94 40 3 4.233313
+96 41 2 2.119238
+96 43 2 3.049508
+98 41 2 0.703681
+98 43 2 2.302932
+94 41 1 4.242205
+94 43 1 4.775420
+
+{'best points': 2, 'close points': 7, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+99 40 1 0.359330
+96 41 1 2.218807
+97 40 1 2.046631
+94 39 1 4.351571
+91 62 0 22.286727
+98 43 0 2.343150
+
+{'best points': 1, 'close points': 4, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+98 43 1 2.343150
+99 40 1 0.359330
+94 39 1 4.351571
+96 41 0 2.218807
+97 40 0 2.046631
+
+{'best points': 1, 'close points': 4, 'far points': 0}
+DENEME SAYISI :73
+WAWE:    14    67 
+
+predict with mod
+# 	X	Y	P	Approximate
+40 51 2 30.909258
+36 51 2 27.285991
+46 51 2 35.842800
+14 51 2 15.464702
+54 51 2 43.802709
+34 51 2 25.399896
+51 51 2 40.289661
+29 51 2 22.198414
+29 27 1 42.542414
+14 36 1 30.675685
+29 66 1 15.934904
+51 36 1 48.219264
+51 66 1 37.207638
+51 57 1 38.322546
+14 27 1 39.449264
+29 36 1 34.563134
+29 48 1 24.507859
+14 44 1 22.281227
+14 48 1 18.628542
+14 66 1 0.555510
+14 57 1 9.193356
+34 27 1 44.297202
+51 48 1 41.606758
+29 44 1 27.387326
+34 44 1 30.040818
+34 48 1 27.441214
+34 36 1 36.701435
+34 66 1 20.157040
+34 57 1 22.147584
+46 27 1 51.007781
+51 27 1 54.224940
+51 44 1 43.365341
+36 57 1 24.287570
+46 44 1 39.268338
+46 48 1 37.317179
+46 36 1 44.570696
+46 66 1 32.339726
+46 57 1 33.616471
+36 27 1 45.404985
+36 44 1 31.651561
+36 48 1 29.195733
+36 36 1 38.031118
+36 66 1 22.487260
+40 27 1 47.670427
+54 57 1 42.000454
+40 44 1 34.823531
+40 48 1 32.607481
+40 36 1 40.709003
+40 66 1 26.768149
+40 57 1 28.297403
+54 27 1 56.883783
+54 44 1 46.647330
+54 48 1 45.017140
+54 36 1 51.190995
+54 66 1 40.985716
+29 57 1 18.388322
+
+{'best points': 1, 'close points': 0, 'far points': 55}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+34 51 2 25.399896
+36 51 2 27.285991
+40 51 2 30.909258
+34 48 1 27.441214
+36 48 1 29.195733
+40 48 1 32.607481
+
+{'best points': 0, 'close points': 0, 'far points': 6}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+46 27 1 51.007781
+54 48 1 45.017140
+51 36 1 48.219264
+36 51 0 27.534416
+40 44 0 34.823531
+14 66 0 0.555510
+34 51 0 25.137881
+29 57 0 18.388322
+
+{'best points': 1, 'close points': 0, 'far points': 7}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+40 44 1 34.823531
+29 57 1 18.388322
+36 51 0 27.534416
+34 51 0 25.137881
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+DENEME SAYISI :74
+WAWE:    53    57 
+
+predict with mod
+# 	X	Y	P	Approximate
+53 57 20 0.172332
+54 57 10 1.463586
+53 69 4 12.500069
+54 69 2 12.584280
+
+{'best points': 1, 'close points': 1, 'far points': 2}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+54 57 30 1.278438
+
+{'best points': 0, 'close points': 1, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+53 56 1 0.551415
+52 56 1 0.819832
+54 69 0 12.607918
+53 57 0 0.728979
+52 57 0 0.526889
+54 57 0 1.284096
+
+{'best points': 4, 'close points': 1, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+52 56 1 0.819832
+53 56 0 0.551415
+53 57 0 0.728979
+52 57 0 0.526889
+54 57 0 1.284096
+
+{'best points': 4, 'close points': 1, 'far points': 0}
+DENEME SAYISI :75
+WAWE:    43    46 
+
+predict with mod
+# 	X	Y	P	Approximate
+42 46 15 1.086611
+42 45 10 0.937110
+42 37 5 8.044106
+22 46 3 20.097701
+22 45 2 20.090173
+22 37 1 21.620465
+
+{'best points': 1, 'close points': 1, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+42 46 15 0.984833
+42 45 10 0.816914
+
+{'best points': 2, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+42 46 1 0.611588
+42 46 1 1.327435
+42 47 1 1.365427
+22 37 1 21.620465
+43 45 0 0.603878
+42 44 0 1.230339
+
+{'best points': 2, 'close points': 3, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+43 45 1 0.603878
+42 47 1 1.365427
+42 44 1 1.230339
+42 46 0 0.611588
+42 46 0 1.327435
+
+{'best points': 2, 'close points': 3, 'far points': 0}
+DENEME SAYISI :76
+WAWE:    27    58 
+
+predict with mod
+# 	X	Y	P	Approximate
+26 58 1 0.482419
+26 87 1 29.137939
+26 43 1 14.821149
+12 58 1 14.183457
+12 87 1 32.403043
+12 43 1 20.508637
+47 58 1 20.593326
+47 87 1 35.677329
+47 43 1 25.367673
+
+{'best points': 1, 'close points': 0, 'far points': 8}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+26 58 1 0.482419
+
+{'best points': 1, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+47 43 1 25.367673
+26 58 0 0.482419
+12 87 0 32.403043
+
+{'best points': 1, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+26 58 1 0.482419
+
+{'best points': 1, 'close points': 0, 'far points': 0}
+DENEME SAYISI :77
+WAWE:    39    49 
+
+predict with mod
+# 	X	Y	P	Approximate
+38 50 8 1.178219
+38 86 8 37.249458
+38 48 8 0.813043
+38 50 4 1.907373
+38 67 4 18.371025
+38 47 4 2.060469
+38 64 4 15.414848
+0 86 2 53.579044
+0 50 2 38.530249
+0 48 2 38.520811
+19 86 2 42.140886
+19 48 2 19.722910
+50 50 2 11.687660
+50 48 2 11.656510
+8 50 2 31.011396
+19 50 2 19.741336
+9 86 2 47.370651
+8 48 2 30.999669
+9 48 2 29.276570
+9 50 2 29.288986
+39 86 2 37.253415
+8 86 2 48.454521
+39 48 2 0.977666
+39 50 2 1.297302
+50 86 2 39.022241
+50 64 1 19.308825
+19 64 1 25.018986
+19 47 1 19.813573
+8 50 1 31.047649
+8 67 1 36.025172
+19 67 1 26.941171
+19 50 1 19.798237
+8 47 1 31.057430
+0 67 1 42.669502
+50 47 1 11.809264
+50 67 1 21.741843
+50 50 1 11.783516
+0 64 1 41.482640
+0 47 1 38.567310
+0 50 1 38.559434
+9 64 1 33.076790
+9 47 1 29.337724
+9 67 1 34.553597
+9 50 1 29.327369
+39 64 1 15.424407
+39 47 1 2.130803
+39 67 1 18.379046
+39 50 1 1.983144
+8 64 1 34.611212
+
+{'best points': 2, 'close points': 6, 'far points': 41}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+38 50 12 1.529759
+38 48 8 0.798626
+38 47 4 2.054822
+39 50 3 1.630396
+39 48 2 0.977666
+39 47 1 2.130803
+
+{'best points': 2, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+38 49 1 0.777588
+39 48 1 1.063936
+37 50 1 2.263570
+38 48 1 0.615521
+38 50 1 1.506457
+9 67 1 34.553597
+0 86 1 53.870136
+50 47 1 11.809264
+19 64 1 25.018986
+8 85 1 48.134309
+
+{'best points': 2, 'close points': 3, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+50 47 1 11.809264
+38 49 0 0.777588
+39 48 0 1.063936
+37 50 0 2.263570
+38 48 0 0.615521
+38 50 0 1.506457
+
+{'best points': 2, 'close points': 3, 'far points': 1}
+DENEME SAYISI :78
+WAWE:    98    81 
+
+predict with mod
+# 	X	Y	P	Approximate
+93 67 4 13.659247
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+93 67 4 13.659247
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+93 68 1 13.408890
+93 67 0 13.909915
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+93 67 1 13.909915
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :79
+WAWE:    15    0 
+
+predict with mod
+# 	X	Y	P	Approximate
+47 21 1 39.235651
+47 7 1 33.484605
+51 21 1 42.556578
+51 7 1 37.320836
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+51 7 1 37.320836
+47 21 0 39.235651
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+47 21 1 39.235651
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+DENEME SAYISI :80
+WAWE:    57    6 
+
+predict with mod
+# 	X	Y	P	Approximate
+53 3 1 4.138718
+53 10 1 5.385477
+53 18 1 13.104929
+63 3 1 6.900641
+63 10 1 7.713184
+63 18 1 14.220725
+98 3 1 41.726824
+98 10 1 41.868869
+98 18 1 43.540073
+
+{'best points': 0, 'close points': 1, 'far points': 8}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+63 10 1 7.713184
+
+{'best points': 0, 'close points': 0, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+53 3 1 4.138718
+63 10 0 7.713184
+98 18 0 43.540073
+
+{'best points': 0, 'close points': 1, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+63 10 1 7.713184
+53 3 0 4.138718
+
+{'best points': 0, 'close points': 1, 'far points': 1}
+DENEME SAYISI :81
+WAWE:    28    33 
+
+predict with mod
+# 	X	Y	P	Approximate
+28 32 20 0.474172
+27 32 10 0.848113
+12 32 5 15.379769
+28 30 4 2.202694
+28 48 4 15.684774
+27 30 2 2.312210
+27 48 2 15.700528
+12 30 1 15.529466
+12 48 1 21.961890
+
+{'best points': 2, 'close points': 2, 'far points': 5}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+28 33 25 0.251789
+28 30 5 2.173364
+29 33 5 1.400515
+29 30 1 2.573238
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+27 32 1 0.806446
+27 32 1 0.998911
+28 33 0 0.465055
+28 33 0 0.503027
+29 30 0 2.573238
+27 32 0 0.089622
+12 48 0 21.961890
+
+{'best points': 5, 'close points': 1, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+29 30 1 2.573238
+27 32 1 0.998911
+28 33 0 0.465055
+28 33 0 0.503027
+27 32 0 0.089622
+27 32 0 0.806446
+
+{'best points': 5, 'close points': 1, 'far points': 0}
+DENEME SAYISI :82
+WAWE:    47    43 
+
+predict with mod
+# 	X	Y	P	Approximate
+46 42 8 0.757529
+47 42 8 0.848952
+69 42 4 22.504539
+46 38 2 4.704055
+47 38 2 4.719640
+69 38 1 22.978437
+
+{'best points': 2, 'close points': 2, 'far points': 2}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+46 42 8 0.635692
+47 42 8 0.742276
+46 38 2 4.704055
+47 38 2 4.719640
+
+{'best points': 2, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+47 42 1 0.969461
+47 42 1 0.966911
+69 38 1 22.978437
+46 42 0 0.776396
+46 43 0 0.482951
+
+{'best points': 4, 'close points': 0, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+46 42 1 0.776396
+46 43 1 0.482951
+47 42 0 0.969461
+47 42 0 0.966911
+
+{'best points': 4, 'close points': 0, 'far points': 0}
+DENEME SAYISI :83
+WAWE:    70    62 
+
+predict with mod
+# 	X	Y	P	Approximate
+46 99 9 43.972469
+46 62 9 23.757094
+69 99 9 37.004885
+69 62 9 0.427767
+46 68 3 24.681636
+46 59 3 23.863608
+74 99 3 37.246897
+74 62 3 4.260611
+78 99 3 37.969598
+78 62 3 8.515386
+69 68 3 6.705714
+69 59 3 2.292430
+74 68 1 7.933248
+74 59 1 4.819238
+78 68 1 10.830301
+78 59 1 8.808181
+
+{'best points': 1, 'close points': 3, 'far points': 12}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+69 62 9 0.463843
+69 68 3 6.705418
+74 62 3 4.264849
+74 68 1 7.933248
+
+{'best points': 1, 'close points': 1, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 68 1 7.933248
+78 59 1 8.808181
+69 62 1 0.567198
+70 62 1 0.320929
+69 62 1 0.429785
+46 98 0 43.093829
+46 99 0 44.169665
+46 99 0 44.313976
+
+{'best points': 3, 'close points': 0, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 68 1 7.933248
+78 59 1 8.808181
+69 62 0 0.567198
+70 62 0 0.320929
+69 62 0 0.429785
+
+{'best points': 3, 'close points': 0, 'far points': 2}
+DENEME SAYISI :84
+WAWE:    65    29 
+
+predict with mod
+# 	X	Y	P	Approximate
+40 26 2 24.842925
+60 26 2 5.576206
+64 26 2 2.651650
+75 26 2 10.604212
+68 26 2 3.957195
+68 47 1 18.778276
+64 47 1 18.547116
+40 56 1 37.068165
+40 47 1 30.889079
+64 28 1 0.706050
+64 56 1 27.638907
+75 56 1 29.484356
+75 28 1 10.291578
+75 47 1 21.199377
+60 28 1 4.955939
+60 56 1 28.070839
+60 47 1 19.184847
+68 28 1 3.021035
+68 56 1 27.794556
+40 28 1 24.711094
+
+{'best points': 1, 'close points': 4, 'far points': 15}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+60 26 2 5.576206
+64 26 2 2.651650
+68 26 2 3.957195
+60 28 1 4.955939
+64 28 1 0.706050
+68 28 1 3.021035
+
+{'best points': 1, 'close points': 4, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+68 47 1 18.778276
+75 56 1 29.484356
+60 26 0 5.620072
+64 26 0 2.560819
+40 28 0 24.711094
+
+{'best points': 0, 'close points': 1, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+64 26 1 2.560819
+60 26 0 5.620072
+
+{'best points': 0, 'close points': 1, 'far points': 1}
+DENEME SAYISI :85
+WAWE:    8    50 
+
+predict with mod
+# 	X	Y	P	Approximate
+47 53 1 39.362440
+47 41 1 40.184072
+47 47 1 39.264221
+44 53 1 36.781188
+44 41 1 37.659180
+44 47 1 36.676058
+12 53 1 5.843521
+12 41 1 9.975206
+12 47 1 5.140439
+
+{'best points': 0, 'close points': 0, 'far points': 9}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+44 47 1 36.676058
+47 47 1 39.264221
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+47 53 1 39.362440
+44 41 0 37.659180
+12 47 0 5.140439
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+44 41 1 37.659180
+47 53 0 39.362440
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :86
+WAWE:    39    42 
+
+predict with mod
+# 	X	Y	P	Approximate
+39 39 12 2.648099
+39 41 8 1.013405
+39 43 4 1.280696
+39 70 4 28.493512
+41 39 3 3.468738
+37 39 3 3.023685
+9 39 3 29.368957
+41 41 2 2.459005
+37 41 2 1.776859
+9 41 2 29.266879
+41 43 1 2.580678
+41 70 1 28.581462
+37 43 1 1.941757
+37 70 1 28.530869
+9 43 1 29.277353
+9 70 1 40.833852
+
+{'best points': 0, 'close points': 9, 'far points': 7}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+39 39 12 2.629419
+39 41 8 1.019880
+39 43 4 1.285826
+37 39 3 3.005148
+41 39 3 3.452592
+37 41 2 1.776859
+41 41 2 2.459005
+37 43 1 1.941757
+41 43 1 2.580678
+
+{'best points': 0, 'close points': 9, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+39 39 1 2.845872
+39 39 1 2.521597
+39 39 1 2.661862
+9 70 1 40.833852
+39 41 0 0.270593
+41 43 0 2.580678
+37 40 0 1.998111
+
+{'best points': 1, 'close points': 5, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+39 41 1 0.270593
+41 43 1 2.580678
+37 40 1 1.998111
+39 39 0 2.845872
+39 39 0 2.521597
+39 39 0 2.661862
+
+{'best points': 1, 'close points': 5, 'far points': 0}
+DENEME SAYISI :87
+WAWE:    41    55 
+
+predict with mod
+# 	X	Y	P	Approximate
+40 55 36 0.877807
+40 67 6 12.253262
+40 88 6 33.110547
+21 55 6 19.364373
+9 55 6 31.013374
+21 67 1 22.898708
+21 88 1 38.347317
+9 67 1 33.334686
+9 88 1 45.358209
+
+{'best points': 1, 'close points': 0, 'far points': 8}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+40 55 36 0.902908
+
+{'best points': 1, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+40 55 0 0.336835
+40 55 0 0.914556
+39 55 0 1.433025
+40 55 0 0.908228
+40 55 0 0.790492
+40 55 0 0.890916
+21 67 0 22.898708
+9 88 0 45.358209
+
+{'best points': 5, 'close points': 1, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+40 55 1 0.336835
+39 55 1 1.433025
+40 55 0 0.914556
+40 55 0 0.908228
+40 55 0 0.790492
+40 55 0 0.890916
+
+{'best points': 5, 'close points': 1, 'far points': 0}
+DENEME SAYISI :88
+WAWE:    77    49 
+
+predict with mod
+# 	X	Y	P	Approximate
+78 29 2 19.093605
+78 56 2 7.175910
+78 72 2 23.936989
+78 46 2 2.541553
+78 50 2 1.929778
+78 43 2 5.756139
+69 50 1 7.988651
+69 29 1 20.607287
+69 43 1 9.655446
+69 56 1 10.563531
+84 72 1 24.982621
+73 72 1 24.193934
+69 72 1 25.160961
+84 46 1 7.590217
+84 50 1 7.407830
+84 29 1 20.389156
+84 43 1 9.180689
+69 46 1 8.158063
+62 29 1 23.806824
+62 56 1 15.927736
+62 43 1 15.340542
+73 46 1 4.338952
+62 50 1 14.350022
+62 46 1 14.445019
+62 72 1 27.842028
+73 56 1 7.991288
+73 43 1 6.745380
+73 29 1 19.414757
+73 50 1 4.011366
+84 56 1 10.131416
+
+{'best points': 0, 'close points': 4, 'far points': 26}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+78 46 2 2.541553
+78 50 2 1.929778
+73 46 1 4.338952
+73 50 1 4.011366
+
+{'best points': 0, 'close points': 4, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+78 46 1 2.598877
+62 29 1 23.806824
+69 43 1 9.655446
+73 72 0 24.193934
+78 50 0 1.856643
+84 56 0 10.131416
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+69 43 1 9.655446
+84 56 1 10.131416
+78 46 0 2.598877
+78 50 0 1.856643
+
+{'best points': 0, 'close points': 2, 'far points': 2}
+DENEME SAYISI :89
+WAWE:    76    23 
+
+predict with mod
+# 	X	Y	P	Approximate
+74 17 4 5.690532
+74 21 4 1.728196
+72 17 2 6.416853
+80 17 2 6.927156
+61 17 2 15.967470
+61 21 2 15.018808
+76 21 2 1.419183
+76 17 2 5.604424
+74 32 2 9.679141
+80 21 2 4.311612
+74 19 2 3.469744
+72 21 2 3.432275
+61 32 1 17.783805
+72 19 1 4.564315
+80 32 1 10.454143
+72 32 1 10.123222
+76 19 1 3.326641
+76 32 1 9.628769
+80 19 1 5.257609
+61 19 1 15.317215
+
+{'best points': 0, 'close points': 7, 'far points': 13}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+74 17 4 5.690532
+74 21 4 1.728196
+72 17 2 6.416853
+72 21 2 3.432275
+74 19 2 3.469744
+76 17 2 5.604424
+76 21 2 1.419183
+72 19 1 4.564315
+76 19 1 3.326641
+
+{'best points': 0, 'close points': 6, 'far points': 3}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+80 32 1 10.454143
+76 21 1 1.268117
+75 21 1 1.700643
+74 17 0 5.839191
+72 17 0 6.339352
+61 19 0 15.317215
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+74 17 1 5.839191
+72 17 1 6.339352
+76 21 0 1.268117
+75 21 0 1.700643
+
+{'best points': 0, 'close points': 2, 'far points': 2}
+DENEME SAYISI :90
+WAWE:    76    43 
+
+predict with mod
+# 	X	Y	P	Approximate
+77 43 15 1.280901
+80 43 15 4.256980
+77 56 3 13.675264
+80 56 3 14.265133
+
+{'best points': 0, 'close points': 2, 'far points': 2}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+77 43 15 1.315656
+80 43 15 4.267566
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+80 43 1 4.229864
+80 43 1 4.229695
+80 43 1 4.296443
+76 56 0 13.656129
+77 43 0 1.179559
+77 43 0 1.455859
+
+{'best points': 0, 'close points': 5, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+77 43 1 1.179559
+77 43 1 1.455859
+80 43 0 4.229864
+80 43 0 4.229695
+80 43 0 4.296443
+
+{'best points': 0, 'close points': 5, 'far points': 0}
+DENEME SAYISI :91
+WAWE:    23    65 
+
+predict with mod
+# 	X	Y	P	Approximate
+19 65 8 3.245274
+22 65 8 0.931602
+57 65 4 34.972611
+3 65 4 19.077109
+19 30 2 34.327025
+19 78 2 14.003572
+22 30 2 34.185972
+22 78 2 13.654160
+57 30 1 48.896793
+57 78 1 37.532010
+3 30 1 39.137564
+3 78 1 23.441508
+
+{'best points': 1, 'close points': 1, 'far points': 10}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+19 66 8 3.398089
+22 66 8 1.372257
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+57 30 1 48.896793
+22 65 1 0.881800
+22 65 1 0.661216
+19 66 0 3.436226
+19 66 0 3.531860
+3 78 0 23.441508
+
+{'best points': 2, 'close points': 2, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+22 65 1 0.881800
+22 65 1 0.661216
+19 66 0 3.436226
+19 66 0 3.531860
+
+{'best points': 2, 'close points': 2, 'far points': 0}
+DENEME SAYISI :92
+WAWE:    67    27 
+
+predict with mod
+# 	X	Y	P	Approximate
+74 33 2 9.739769
+83 33 2 18.068610
+72 33 2 8.284717
+61 33 2 8.358501
+56 33 2 12.103232
+74 17 1 12.216858
+72 18 1 10.119795
+72 54 1 27.813861
+56 17 1 14.173099
+56 18 1 13.426166
+56 54 1 29.179831
+83 54 1 32.116179
+83 18 1 18.980210
+74 18 1 11.341817
+74 54 1 28.281397
+61 17 1 11.146885
+61 18 1 10.180287
+61 54 1 27.835928
+83 17 1 19.515716
+72 17 1 11.091666
+
+{'best points': 0, 'close points': 0, 'far points': 20}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+72 33 2 8.284717
+74 33 2 9.739769
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+83 54 1 32.116179
+74 33 1 9.937900
+72 33 1 8.056690
+61 18 0 10.180287
+56 17 0 14.173099
+
+{'best points': 0, 'close points': 0, 'far points': 5}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+72 33 1 8.056690
+74 33 0 9.937900
+
+{'best points': 0, 'close points': 0, 'far points': 2}
+DENEME SAYISI :93
+WAWE:    5    4 
+
+predict with mod
+# 	X	Y	P	Approximate
+77 95 1 116.740043
+77 3 1 72.287473
+77 15 1 73.233452
+77 1 1 72.329738
+15 95 1 92.258752
+15 3 1 10.436404
+15 15 1 15.702808
+15 1 1 10.725238
+3 95 1 91.683985
+3 3 1 1.787259
+3 15 1 11.868191
+3 1 1 3.050655
+18 95 1 92.623822
+18 3 1 13.282073
+18 15 1 17.722109
+18 1 1 13.510206
+
+{'best points': 0, 'close points': 2, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+
+{'best points': 0, 'close points': 0, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+15 3 1 10.436404
+18 1 1 13.510206
+77 95 0 116.740043
+3 15 0 11.868191
+
+{'best points': 0, 'close points': 0, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+3 15 1 11.868191
+15 3 0 10.436404
+18 1 0 13.510206
+
+{'best points': 0, 'close points': 0, 'far points': 3}
+DENEME SAYISI :94
+WAWE:    24    87 
+
+predict with mod
+# 	X	Y	P	Approximate
+23 86 15 0.887345
+23 87 10 1.173286
+23 76 10 10.654745
+23 66 5 20.429790
+28 86 3 4.835753
+29 86 3 5.999495
+25 86 3 2.065356
+28 87 2 4.896297
+28 76 2 11.667078
+29 87 2 6.048401
+29 76 2 12.195497
+25 87 2 2.203387
+25 76 2 10.816742
+28 66 1 20.975544
+29 66 1 21.273995
+25 66 1 20.514742
+
+{'best points': 1, 'close points': 5, 'far points': 10}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+23 87 20 0.456170
+23 88 5 1.553990
+25 87 4 1.967102
+25 88 1 2.465012
+
+{'best points': 1, 'close points': 3, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+28 76 1 11.617032
+23 86 1 0.738417
+23 88 1 1.737975
+22 87 0 1.301822
+29 66 0 21.273995
+25 76 0 10.870751
+23 86 0 0.663312
+23 86 0 0.973636
+
+{'best points': 3, 'close points': 2, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+22 87 1 1.301822
+23 88 1 1.737975
+23 86 0 0.738417
+23 86 0 0.663312
+23 86 0 0.973636
+
+{'best points': 3, 'close points': 2, 'far points': 0}
+DENEME SAYISI :95
+WAWE:    82    63 
+
+predict with mod
+# 	X	Y	P	Approximate
+78 62 9 3.742614
+78 64 3 4.087029
+81 62 3 0.170068
+39 62 3 42.293318
+84 62 3 2.070428
+78 59 3 5.237951
+79 62 3 2.391558
+78 54 3 9.558038
+78 93 3 31.005162
+81 59 1 3.668500
+81 54 1 8.796469
+39 54 1 43.198076
+39 59 1 42.451782
+39 64 1 42.325187
+84 93 1 30.848007
+84 54 1 9.035243
+84 59 1 4.208995
+84 64 1 2.642597
+79 93 1 30.871224
+79 54 1 9.114192
+81 64 1 1.650930
+79 59 1 4.375902
+79 64 1 2.901068
+81 93 1 30.778918
+39 93 1 52.307148
+
+{'best points': 1, 'close points': 10, 'far points': 14}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+78 62 9 3.630330
+78 59 3 5.158320
+78 64 3 3.984462
+79 62 3 2.391558
+81 62 3 0.170068
+79 59 1 4.375902
+79 64 1 2.901068
+81 59 1 3.668500
+81 64 1 1.650930
+
+{'best points': 1, 'close points': 7, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+77 64 1 4.380013
+79 62 1 2.435861
+78 62 1 3.830357
+81 59 0 3.668500
+78 54 0 9.406713
+84 63 0 2.077420
+39 93 0 52.307148
+
+{'best points': 0, 'close points': 5, 'far points': 2}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+81 59 1 3.668500
+78 54 1 9.406713
+84 63 1 2.077420
+77 64 0 4.380013
+79 62 0 2.435861
+78 62 0 3.830357
+
+{'best points': 0, 'close points': 5, 'far points': 1}
+DENEME SAYISI :96
+WAWE:    36    58 
+
+predict with mod
+# 	X	Y	P	Approximate
+35 58 9 0.631615
+35 57 6 0.507192
+36 58 6 0.410804
+36 57 4 0.164520
+8 58 3 27.595657
+30 58 3 5.633976
+13 58 3 22.581753
+41 58 3 5.652422
+34 58 3 2.004933
+35 59 3 1.697972
+35 53 3 4.198357
+35 63 3 5.322395
+35 68 3 10.225029
+35 73 3 15.588947
+30 57 2 5.621387
+34 57 2 1.969280
+8 57 2 27.593090
+13 57 2 22.578615
+36 68 2 10.213767
+36 53 2 4.170855
+41 57 2 5.639874
+36 63 2 5.300727
+36 59 2 1.628782
+36 73 2 15.581563
+30 53 1 6.997782
+30 68 1 11.657357
+8 63 1 28.097140
+30 59 1 5.850287
+34 63 1 5.652319
+34 59 1 2.550280
+34 73 1 15.704652
+34 68 1 10.400579
+34 53 1 4.609449
+30 73 1 16.563756
+13 68 1 24.780796
+8 59 1 27.640631
+8 73 1 31.688115
+8 68 1 29.422315
+8 53 1 27.906049
+13 63 1 23.191906
+13 59 1 22.636690
+13 73 1 27.432680
+13 53 1 22.960027
+41 63 1 7.738141
+41 59 1 5.868053
+41 73 1 16.570040
+41 68 1 11.666283
+41 53 1 7.012641
+30 63 1 7.724677
+
+{'best points': 4, 'close points': 8, 'far points': 37}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+36 59 24 1.157170
+34 59 12 1.987081
+30 59 6 5.737080
+36 53 4 4.170600
+36 63 4 5.300527
+34 53 2 4.472511
+34 63 2 5.541213
+30 53 1 6.997782
+30 63 1 7.724677
+
+{'best points': 0, 'close points': 4, 'far points': 5}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+41 53 1 7.012641
+30 63 1 7.724677
+34 59 0 1.729021
+36 57 0 0.552888
+35 57 0 0.229677
+35 58 0 0.691426
+13 68 0 24.780796
+8 73 0 31.688115
+35 57 0 0.088320
+34 59 0 2.550280
+
+{'best points': 4, 'close points': 2, 'far points': 4}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+34 59 1 2.550280
+30 63 1 7.724677
+34 59 0 1.729021
+36 57 0 0.552888
+35 57 0 0.229677
+35 58 0 0.691426
+35 57 0 0.088320
+
+{'best points': 4, 'close points': 2, 'far points': 1}
+DENEME SAYISI :97
+WAWE:    65    63 
+
+predict with mod
+# 	X	Y	P	Approximate
+66 96 6 33.979332
+14 96 6 60.898311
+0 96 6 73.005907
+0 63 4 64.632775
+66 63 4 1.458774
+14 63 4 50.558256
+71 96 3 34.564513
+64 96 3 33.955940
+70 96 3 34.374494
+0 65 2 64.665131
+14 66 2 50.665324
+64 63 2 0.734093
+0 95 2 72.439686
+0 62 2 64.640330
+14 65 2 50.599614
+14 62 2 50.567914
+0 66 2 64.716561
+14 95 2 60.218352
+71 63 2 6.499126
+66 62 2 1.762012
+66 65 2 2.512303
+66 66 2 3.600801
+70 63 2 5.398042
+66 95 2 32.745086
+64 95 1 32.720811
+70 62 1 5.487761
+70 95 1 33.154961
+71 66 1 7.285354
+71 65 1 6.813390
+70 65 1 5.772565
+64 62 1 1.231080
+71 62 1 6.573835
+64 65 1 2.173140
+64 66 1 3.372927
+71 95 1 33.351930
+70 66 1 6.322706
+
+{'best points': 1, 'close points': 7, 'far points': 28}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+66 62 6 1.467876
+64 62 3 0.752019
+66 65 2 2.512303
+66 66 2 3.600801
+64 65 1 2.173140
+64 66 1 3.372927
+
+{'best points': 1, 'close points': 5, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+70 66 1 6.322706
+71 65 1 6.813390
+66 63 1 1.322698
+66 62 1 1.630002
+64 62 1 1.231080
+0 97 0 73.354020
+0 96 0 73.018140
+14 96 0 60.711097
+14 95 0 60.191842
+
+{'best points': 0, 'close points': 3, 'far points': 6}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+70 66 1 6.322706
+71 65 1 6.813390
+66 63 0 1.322698
+66 62 0 1.630002
+64 62 0 1.231080
+
+{'best points': 0, 'close points': 3, 'far points': 2}
+DENEME SAYISI :98
+WAWE:    91    5 
+
+predict with mod
+# 	X	Y	P	Approximate
+92 5 2 2.048200
+92 8 2 4.191896
+92 37 2 32.672916
+11 5 1 79.640170
+11 8 1 79.724109
+11 37 1 86.057428
+
+{'best points': 0, 'close points': 2, 'far points': 4}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+92 5 2 2.048200
+92 8 2 4.191896
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+92 5 1 1.757441
+93 8 0 4.347380
+11 37 0 86.057428
+
+{'best points': 0, 'close points': 2, 'far points': 1}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+93 8 1 4.347380
+92 5 0 1.757441
+
+{'best points': 0, 'close points': 2, 'far points': 0}
+DENEME SAYISI :99
+WAWE:    40    34 
+
+predict with mod
+# 	X	Y	P	Approximate
+37 30 6 4.042250
+35 30 6 5.313197
+53 30 3 13.687509
+40 30 3 3.142600
+37 69 2 35.093015
+37 32 2 2.744714
+37 31 2 3.257460
+35 69 2 35.262019
+35 32 2 4.407237
+35 31 2 4.743556
+53 69 1 37.450338
+53 32 1 13.361945
+53 31 1 13.476616
+40 69 1 35.000798
+40 32 1 1.034217
+40 31 1 2.036466
+
+{'best points': 0, 'close points': 8, 'far points': 8}
+predict with mod and meadin
+# 	X	Y	P	Approximate
+35 30 6 5.313197
+37 30 6 4.042250
+40 30 3 3.142600
+35 31 2 4.743556
+35 32 2 4.407237
+37 31 2 3.257460
+37 32 2 2.744714
+40 31 1 2.036466
+40 32 1 1.034217
+
+{'best points': 0, 'close points': 8, 'far points': 1}
+predict with Kmeans with outlier 
+# 	X	Y	P	Approximate
+37 30 1 4.660818
+37 31 1 3.294572
+36 30 1 5.003668
+35 31 1 5.454284
+53 69 0 37.450338
+40 32 0 1.034217
+
+{'best points': 0, 'close points': 3, 'far points': 3}
+predict with  one center Kmeans with outlier 
+# 	X	Y	P	Approximate
+40 32 1 1.034217
+37 30 1 4.660818
+35 31 1 5.454284
+37 31 0 3.294572
+36 30 0 5.003668
+
+{'best points': 0, 'close points': 3, 'far points': 2}
+method 1 best point ratio : 47
+method 1  close ratio : 34
+method 2 ratio : 36
+method 2  close ratio : 24
+method 3 ratio : 45
+method 1  close ratio : 33
+method 4 ratio : 40
+method 1  close ratio : 26
+0 adet durumda çözüm yapılamamıştır.
